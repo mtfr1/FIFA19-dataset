@@ -1,0 +1,36 @@
+Objetivo
+Classificar os atletas de acordo com suas posições, buscando entender como os atributos fazem com que essas posições difiram entre si.
+
+Metodologia
+
+Como no dataset original haviam 28 posições diferentes, cada uma com poucos atletas, resolvemos adotar uma simplificação, agrupando-as em 4 grandes classes, sendo elas:
+GK representando os goleiros, DF representando os defensores, MF representando os atletas de meio e ST representando os atacantes. Para criação dessas classes foi utilizado como diferenciador
+a região do campo em que o atleta atua. (IMAGEM DAS POSICOES DOS JOGADORES NO CAMPO). 
+
+As colunas utilizadas foram todas aquelas relacionadas com a habilidade do jogador em campo (aceleração, finalização, drible, força, etc.) que variam numa escala de 0 a 100, além da idade e do potencial. Optamos por remover atletas com alguma habilidade nula ou com posição nula do conjunto.
+
+Quebramos o conjunto de dados em 80% treino e 20% teste, além de, no treino, fazer a validação usando cross-validation com 5-folds.
+Já que os atletas estão razoavelmente bem distribuídos entre as classes, como visto na figura X, não foi necessário balancear o conjunto de treino. (IMAGEM DA DISTRIBUIÇAO DAS CLASSES).
+
+Como buscamos uma interpretação para a classificação utlizada, decidimos usar uma árvore de decisão, por ser um algoritmo simples e facilmente interpretável.
+Parâmetros árvore de decisão: foi utilizada a impureza de gini como métrica para avaliar a qualidade da árvore, a impureza de gini mede com que frequência  um elemento escolhido aleatoriamente do 
+conjunto seria incorretamente classificado se ele fosse rotulado aleatoriamente de acordo com a distribuição dos rótulos do subconjunto. Para facilitar a interpretação sem comprometer muito a acurácia, 
+limitamos a altura da árvore em 3.
+
+Resultados
+
+Obtivemos bons resultados, mesmo podando a árvore. Obteve-se uma acurácia de X%. Como é possível observar na matriz de confusão, os goleiros são facilmente identificáveis, assim como os meias. A maior parte dos erros
+se concentra envolvendo atletas que são defensores ou atacantes, mas são classificados como meias. Isso se deve à grande diversidade de funções que os atletas de meio podem exercer, existindo atletas mais
+defensivos ou mais agressivos, ao invés de atletas "puramente" de meio, como ocorre na defesa e no ataque. (IMAGEM DA MATRIZ DE CONFUSÃO).
+
+Análise da árvore de decisão
+
+Na figura X, temos a árvore de decisão, as cores dos nós representam qual a classe dominante naquele nó, podendo ser verificado usando a lista values. Nela é fácil ver que, com apenas um atributo (Reflexos de Goleiro),
+trivialmente diferencia-se os goleiros de todos os outros atletas. Depois, o algoritmo separa atletas de defesa dos atletas de ataque/meio, usando o atributo de Finalização, já que atletas
+que jogam mais na frente devem chutar mais ao gol e, por isso, possuem maior habilidade de finalização. 
+Dada essa separação, a árvore, agora, na esquerda, tenta separar os meias dos defensores. Para isso, foi utilizado o atributo de Desarmes, em que os atletas defensores são predominantemente melhores, a mediana dos
+defensores é 66 enquanto a dos meias é 52.
+Agora, na direita, a árvore busca separar os meias dos atacantes usando o atributo "Sliding Tackle" (carrinho), a mediana dos atacantes é 21 e a dos meias é 49. Pode-se observar que, como dito anteriormente, é difícil 
+diferenciar um meia dos outros atletas.
+
+Aumentando a altura da árvore, é possível obter melhor acurácia, porém a interpretação fica comprometida, e, por isso, decidimos manter a altura em 3.
