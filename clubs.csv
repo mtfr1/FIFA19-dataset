@@ -1,0 +1,1081 @@
+,url,league_name,Club,Defensive Style,Offensive Style,Domestic Prestige,International Prestige
+0,241,Spain Primera Division ,FC Barcelona,Pressure On Heavy Touch,Possession,10,10
+1,11,English Premier League ,Manchester United,Press After Possession Loss,Balanced,10,10
+2,5,English Premier League ,Chelsea,Press After Possession Loss,Possession,9,9
+3,243,Spain Primera Division ,Real Madrid,Pressure On Heavy Touch,Possession,10,10
+4,1,English Premier League ,Arsenal,Press After Possession Loss,Possession,8,8
+5,9,English Premier League ,Liverpool,Press After Possession Loss,Balanced,9,8
+6,22,German 1. Bundesliga ,Borussia Dortmund,Press After Possession Loss,Possession,8,7
+7,21,German 1. Bundesliga ,FC Bayern M\xc3\xbcnchen,Press After Possession Loss,Possession,10,9
+8,10,English Premier League ,Manchester City,Press After Possession Loss,Possession,10,9
+9,73,French Ligue 1 ,Paris Saint-Germain,Press After Possession Loss,Possession,10,10
+10,245,Holland Eredivisie ,Ajax,Press After Possession Loss,Possession,10,5
+11,240,Spain Primera Division ,Atl\xc3\xa9tico Madrid,Press After Possession Loss,Balanced,9,9
+12,191,Austrian Football Bundesliga ,FC Red Bull Salzburg,Press After Possession Loss,Possession,10,6
+13,44,Italian Serie A ,Inter,Pressure On Heavy Touch,Balanced,9,7
+14,47,Italian Serie A ,Milan,Pressure On Heavy Touch,Balanced,7,7
+15,45,Italian Serie A ,Juventus,Press After Possession Loss,Possession,10,10
+16,18,English Premier League ,Tottenham Hotspur,Press After Possession Loss,Possession,9,8
+17,112172,German 1. Bundesliga ,RB Leipzig,Press After Possession Loss,Long Ball,8,6
+18,1943,English Premier League ,Bournemouth,Balanced,Possession,3,3
+19,48,Italian Serie A ,Napoli,Pressure On Heavy Touch,Balanced,9,7
+20,7,English Premier League ,Everton,Balanced,Possession,7,6
+21,32,German 1. Bundesliga ,Bayer 04 Leverkusen,Press After Possession Loss,Possession,7,6
+22,52,Italian Serie A ,Roma,Pressure On Heavy Touch,Balanced,9,8
+23,34,German 1. Bundesliga ,FC Schalke 04,Pressure On Heavy Touch,Long Ball,8,6
+24,95,English Premier League ,Leicester City,Balanced,Possession,5,5
+25,461,Spain Primera Division ,Valencia CF,Pressure On Heavy Touch,Long Ball,8,6
+26,110,English Premier League ,Wolverhampton Wanderers,Pressure On Heavy Touch,Balanced,3,1
+27,66,French Ligue 1 ,Olympique Lyonnais,Press After Possession Loss,Balanced,8,6
+28,19,English Premier League ,West Ham United,Balanced,Balanced,6,5
+29,110374,Italian Serie A ,Fiorentina,Press After Possession Loss,Balanced,7,6
+30,247,Holland Eredivisie ,PSV,Press After Possession Loss,Possession,10,5
+31,1792,English Premier League ,Norwich City,Balanced,Possession,6,1
+32,449,Spain Primera Division ,Real Betis,Press After Possession Loss,Possession,5,2
+33,1824,German 1. Bundesliga ,Eintracht Frankfurt,Press After Possession Loss,Possession,5,4
+34,38,German 1. Bundesliga ,SV Werder Bremen,Balanced,Possession,5,4
+35,234,Portuguese Liga ZON SAGRES ,SL Benfica,Press After Possession Loss,Balanced,10,7
+36,481,Spain Primera Division ,Sevilla FC,Press After Possession Loss,Balanced,7,7
+37,69,French Ligue 1 ,AS Monaco,Pressure On Heavy Touch,Balanced,9,6
+38,219,French Ligue 1 ,Olympique de Marseille,Balanced,Balanced,7,5
+39,2,English Premier League ,Aston Villa,Balanced,Balanced,8,2
+40,13,English Premier League ,Newcastle United,Balanced,Balanced,5,3
+41,110679,German 3. Bundesliga ,Bayern M\xc3\xbcnchen II,Balanced,Balanced,4,1
+42,236,Portuguese Liga ZON SAGRES ,FC Porto,Press After Possession Loss,Possession,10,8
+43,74,French Ligue 1 ,Stade Rennais FC,Balanced,Balanced,5,3
+44,237,Portuguese Liga ZON SAGRES ,Sporting CP,Press After Possession Loss,Possession,9,4
+45,65,French Ligue 1 ,LOSC Lille,Press After Possession Loss,Possession,6,4
+46,17,English Premier League ,Southampton,Pressure On Heavy Touch,Long Ball,5,4
+47,39,Italian Serie A ,Atalanta,Press After Possession Loss,Possession,6,3
+48,23,German 1. Bundesliga ,Borussia M\xc3\xb6nchengladbach,Pressure On Heavy Touch,Possession,6,5
+49,50,Italian Serie A ,Parma,Drop Back,Long Ball,4,2
+50,457,Spain Primera Division ,Real Sociedad,Balanced,Balanced,5,3
+51,325,Turkish Süper Lig ,Galatasaray SK,Pressure On Heavy Touch,Possession,10,7
+52,28,German 2. Bundesliga ,Hamburger SV,Press After Possession Loss,Possession,10,3
+53,10029,German 1. Bundesliga ,TSG 1899 Hoffenheim,Press After Possession Loss,Balanced,6,5
+54,175,German 1. Bundesliga ,VfL Wolfsburg,Balanced,Balanced,5,4
+55,326,Turkish Süper Lig ,Fenerbah\xc3\xa7e SK,Balanced,Possession,10,7
+56,190,Italian Serie A ,Brescia,Balanced,Balanced,7,2
+57,448,Spain Primera Division ,Athletic Club de Bilbao,Balanced,Long Ball,6,6
+58,8,English League Championship ,Leeds United,Press After Possession Loss,Possession,7,1
+59,1799,English Premier League ,Crystal Palace,Pressure On Heavy Touch,Balanced,4,4
+60,1795,English Premier League ,Watford,Balanced,Balanced,4,3
+61,166,German 1. Bundesliga ,Hertha BSC,Press After Possession Loss,Balanced,6,4
+62,211,Croatian Prva HNL ,Dinamo Zagreb,Pressure On Heavy Touch,Balanced,10,4
+63,46,Italian Serie A ,Lazio,Balanced,Balanced,7,6
+64,1794,English Premier League ,Sheffield United,Balanced,Balanced,2,1
+65,144,English League Championship ,Fulham,Press After Possession Loss,Possession,2,2
+66,36,German 2. Bundesliga ,VfB Stuttgart,Pressure On Heavy Touch,Long Ball,6,4
+67,1842,Italian Serie A ,Cagliari,Balanced,Possession,4,1
+68,327,Turkish Süper Lig ,Be\xc5\x9fikta\xc5\x9f JK,Press After Possession Loss,Possession,10,7
+69,113926,English League Two ,Salford City,Pressure On Heavy Touch,Long Ball,8,1
+70,78,Scottish Premiership ,Celtic,Press After Possession Loss,Possession,10,4
+71,72,French Ligue 1 ,OGC Nice,Press After Possession Loss,Possession,6,3
+72,229,Belgian Jupiler Pro League ,RSC Anderlecht,Pressure On Heavy Touch,Balanced,10,7
+73,1879,Mexican Liga MX ,Club Am\xc3\xa9rica,Balanced,Balanced,10,9
+74,1877,Argentina Primera División  ,Boca Juniors,Pressure On Heavy Touch,Balanced,10,9
+75,483,Spain Primera Division ,Villarreal CF,Pressure On Heavy Touch,Balanced,8,7
+76,105035,International,Netherlands,Press After Possession Loss,Balanced,,8
+77,31,German 1. Bundesliga ,1. FC K\xc3\xb6ln,Pressure On Heavy Touch,Possession,10,3
+78,101088,Argentina Primera División  ,V\xc3\xa9lez Sarsfield,Press After Possession Loss,Possession,5,5
+79,1370,International,Brazil,Pressure On Heavy Touch,Possession,,10
+80,1808,English Premier League ,Brighton & Hove Albion,Pressure On Heavy Touch,Balanced,2,1
+81,1335,International,France,Pressure On Heavy Touch,Balanced,,9
+82,452,Spain Primera Division ,RCD Espanyol,Pressure On Heavy Touch,Balanced,5,2
+83,169,German 1. Bundesliga ,1. FSV Mainz 05,Press After Possession Loss,Long Ball,4,3
+84,246,Holland Eredivisie ,Feyenoord,Balanced,Possession,10,4
+85,450,Spain Primera Division ,RC Celta,Press After Possession Loss,Balanced,5,4
+86,25,German 1. Bundesliga ,SC Freiburg,Balanced,Balanced,1,2
+87,110556,Italian Serie A ,Genoa,Balanced,Balanced,4,2
+88,1337,International,Germany,Press After Possession Loss,Possession,,10
+89,462,Spain Primera Division ,Real Valladolid CF,Pressure On Heavy Touch,Long Ball,2,1
+90,91,English League Championship ,Derby County,Press After Possession Loss,Possession,8,1
+91,1876,Argentina Primera División  ,River Plate,Press After Possession Loss,Long Ball,10,9
+92,436,Turkish Süper Lig ,Trabzonspor,Press After Possession Loss,Possession,6,5
+93,1880,Mexican Liga MX ,Guadalajara,Balanced,Balanced,9,8
+94,453,Spain Primera Division ,RCD Mallorca,Balanced,Long Ball,3,1
+95,1806,English League Championship ,Stoke City,Press After Possession Loss,Balanced,6,4
+96,1790,English League One ,Portsmouth,Balanced,Balanced,8,2
+97,1819,French Ligue 1 ,AS Saint-\xc3\x89tienne,Balanced,Long Ball,6,3
+98,1796,English Premier League ,Burnley,Balanced,Long Ball,4,3
+99,110636,German 1. Bundesliga ,Fortuna D\xc3\xbcsseldorf,Drop Back,Balanced,1,1
+100,1386,International,Mexico,Press After Possession Loss,Balanced,,7
+101,189,Italian Serie A ,Bologna,Pressure On Heavy Touch,Balanced,4,2
+102,1318,International,England,Balanced,Possession,,8
+103,71,French Ligue 1 ,FC Nantes,Balanced,Long Ball,5,2
+104,14,English League Championship ,Nottingham Forest,Balanced,Long Ball,8,1
+105,101059,Ukrainian Premier League ,Shakhtar Donetsk,Press After Possession Loss,Balanced,10,8
+106,1362,International,Spain,Press After Possession Loss,Possession,,9
+107,54,Italian Serie A ,Torino,Drop Back,Long Ball,6,4
+108,106,English League One ,Sunderland,Drop Back,Long Ball,9,2
+109,1960,English League Championship ,Swansea City,Balanced,Possession,5,4
+110,59,French Ligue 1 ,FC Girondins de Bordeaux,Balanced,Possession,6,3
+111,100409,German 1. Bundesliga ,FC Augsburg,Balanced,Balanced,3,3
+112,697,USA Major League Soccer ,LA Galaxy,Press After Possession Loss,Possession,8,5
+113,1878,Mexican Liga MX ,Cruz Azul,Press After Possession Loss,Possession,6,7
+114,673,Belgian Jupiler Pro League ,KRC Genk,Press After Possession Loss,Long Ball,7,4
+115,1369,International,Argentina,Pressure On Heavy Touch,Possession,,9
+116,1860,Spain Primera Division ,Getafe CF,Drop Back,Fast Build Up,5,2
+117,112885,USA Major League Soccer ,Atlanta United,Press After Possession Loss,Possession,9,1
+118,112996,USA Major League Soccer ,Los Angeles FC,Balanced,Possession,7,1
+119,1354,International,Portugal,Pressure On Heavy Touch,Balanced,,8
+120,109,English League Championship ,West Bromwich Albion,Balanced,Balanced,5,4
+121,86,Scottish Premiership ,Rangers FC,Press After Possession Loss,Possession,9,3
+122,1032,Mexican Liga MX ,Monterrey,Press After Possession Loss,Balanced,9,8
+123,1831,German 1. Bundesliga ,1. FC Union Berlin,Press After Possession Loss,Balanced,9,1
+124,485,German 2. Bundesliga ,Hannover 96,Pressure On Heavy Touch,Long Ball,5,3
+125,1906,Holland Eredivisie ,AZ Alkmaar,Press After Possession Loss,Possession,9,4
+126,1939,English League Championship ,Huddersfield Town,Press After Possession Loss,Balanced,2,1
+127,55,Italian Serie A ,Udinese,Balanced,Balanced,5,3
+128,896,Swiss Super League ,FC Basel 1893,Press After Possession Loss,Possession,10,6
+129,101085,Argentina Primera División  ,Racing Club,Press After Possession Loss,Possession,9,8
+130,1970,Mexican Liga MX ,Tigres U.A.N.L.,Pressure On Heavy Touch,Possession,10,7
+131,242,Spanish Segunda División ,Deportivo de La Coru\xc3\xb1a,Balanced,Balanced,10,2
+132,94,English League One ,Ipswich Town,Pressure On Heavy Touch,Long Ball,4,1
+133,1343,International,Italy,Drop Back,Long Ball,,9
+134,1028,Mexican Liga MX ,Monarcas Morelia,Balanced,Long Ball,4,5
+135,1837,Italian Serie A ,Sampdoria,Pressure On Heavy Touch,Possession,5,3
+136,76,French Ligue 1 ,RC Strasbourg Alsace,Pressure On Heavy Touch,Possession,1,1
+137,1629,Campeonato Brasileiro Série A ,Gr\xc3\xaamio,Pressure On Heavy Touch,Balanced,9,8
+138,674,Belgian Jupiler Pro League ,KAA Gent,Pressure On Heavy Touch,Balanced,8,5
+139,231,Belgian Jupiler Pro League ,Club Brugge KV,Pressure On Heavy Touch,Balanced,9,5
+140,101014,Turkish Süper Lig ,Medipol Ba\xc5\x9fak\xc5\x9fehir FK,Press After Possession Loss,Possession,8,4
+141,1325,International,Belgium,Press After Possession Loss,Possession,,7
+142,1961,English League Championship ,Cardiff City,Pressure On Heavy Touch,Long Ball,1,1
+143,315,Russian Premier League ,PFC CSKA Moscow,Balanced,Possession,10,7
+144,1387,International,United States,Press After Possession Loss,Possession,,6
+145,110062,Spanish Segunda División ,Girona FC,Balanced,Balanced,4,1
+146,111974,Italian Serie A ,Sassuolo,Press After Possession Loss,Possession,6,4
+147,100761,Romanian Liga I ,FCSB (Steaua),Balanced,Balanced,10,5
+148,112809,Portuguese Liga ZON SAGRES ,Famalic\xc3\xa3o,Balanced,Balanced,1,1
+149,70,French Ligue 1 ,Montpellier HSC,Balanced,Balanced,5,3
+150,171,German 2. Bundesliga ,1. FC N\xc3\xbcrnberg,Press After Possession Loss,Long Ball,2,1
+151,4,English League One ,Bolton Wanderers,Drop Back,Fast Build Up,1,1
+152,1925,English League Championship ,Brentford,Press After Possession Loss,Possession,6,1
+153,1853,Spain Primera Division ,Levante UD,Balanced,Long Ball,3,1
+154,479,Spain Primera Division ,CA Osasuna,Pressure On Heavy Touch,Long Ball,7,1
+155,101047,Ukrainian Premier League ,Dynamo Kyiv,Pressure On Heavy Touch,Balanced,10,6
+156,1809,French Ligue 1 ,Toulouse Football Club,Pressure On Heavy Touch,Possession,3,1
+157,110395,Argentina Primera División  ,Club Atl\xc3\xa9tico Lan\xc3\xbas,Press After Possession Loss,Balanced,8,7
+158,100767,Russian Premier League ,Spartak Moscow,Press After Possession Loss,Balanced,10,4
+159,111839,Chinese Super League ,Guangzhou Evergrande Taobao FC,Balanced,Possession,10,6
+160,573,Spanish Segunda División ,M\xc3\xa1laga CF,Balanced,Balanced,10,2
+161,29,German 3. Bundesliga ,1. FC Kaiserslautern,Pressure On Heavy Touch,Balanced,10,1
+162,88,English League Championship ,Birmingham City,Drop Back,Balanced,5,2
+163,3,English League Championship ,Blackburn Rovers,Press After Possession Loss,Long Ball,10,1
+164,12,English League Championship ,Middlesbrough,Drop Back,Possession,9,1
+165,280,Greek Super League ,Olympiacos CFP,Press After Possession Loss,Possession,10,6
+166,15,English League Championship ,Queens Park Rangers,Drop Back,Fast Build Up,4,1
+167,33,German 3. Bundesliga ,TSV 1860 M\xc3\xbcnchen,Press After Possession Loss,Long Ball,7,1
+168,472,Spanish Segunda División ,UD Las Palmas,Balanced,Possession,9,1
+169,463,Spain Primera Division ,Deportivo Alav\xc3\xa9s,Drop Back,Fast Build Up,3,1
+170,1952,English League Championship ,Hull City,Press After Possession Loss,Balanced,5,1
+171,100765,Russian Premier League ,Lokomotiv Moscow,Press After Possession Loss,Balanced,8,6
+172,244,Spanish Segunda División ,Real Zaragoza,Press After Possession Loss,Possession,8,1
+173,232,Belgian Jupiler Pro League ,Standard de Li\xc3\xa8ge,Press After Possession Loss,Long Ball,7,4
+174,1881,Mexican Liga MX ,U.N.A.M.,Press After Possession Loss,Possession,6,6
+175,1919,English League Championship ,Bristol City,Pressure On Heavy Touch,Balanced,5,1
+176,121,English League Two ,Crewe Alexandra,Press After Possession Loss,Balanced,7,1
+177,110093,Argentina Primera División  ,Independiente,Pressure On Heavy Touch,Long Ball,9,8
+178,347,Italian Serie A ,Lecce,Pressure On Heavy Touch,Possession,6,1
+179,101146,Japanese J. League Division 1 ,Vissel Kobe,Press After Possession Loss,Balanced,4,2
+180,100888,Spain Primera Division ,CD Legan\xc3\xa9s,Drop Back,Long Ball,4,1
+181,110781,Mexican Liga MX ,Club Le\xc3\xb3n,Balanced,Possession,8,4
+182,1940,English League Two ,Mansfield Town,Balanced,Possession,8,1
+183,64,French Ligue 2 ,Racing Club de Lens,Press After Possession Loss,Possession,9,1
+184,1793,English League Championship ,Reading,Press After Possession Loss,Possession,6,1
+185,10030,German 1. Bundesliga ,SC Paderborn 07,Balanced,Balanced,1,1
+186,254,Austrian Football Bundesliga ,SK Rapid Wien,Balanced,Balanced,9,4
+187,111109,International,Colombia,Balanced,Long Ball,,7
+188,689,USA Major League Soccer ,New York Red Bulls,Press After Possession Loss,Balanced,8,4
+189,1807,English League Championship ,Sheffield Wednesday,Pressure On Heavy Touch,Balanced,7,1
+190,1804,English League Two ,Bradford City,Balanced,Balanced,7,1
+191,1945,English League One ,Bury,Drop Back,Balanced,7,1
+192,89,English League Championship ,Charlton Athletic,Balanced,Possession,8,2
+193,1882,Mexican Liga MX ,Deportivo Toluca,Balanced,Possession,7,7
+194,110832,Spain Primera Division ,Granada CF,Drop Back,Balanced,7,1
+195,206,Italian Serie A ,Hellas Verona,Pressure On Heavy Touch,Possession,10,2
+196,1871,Polish T-Mobile Ekstraklasa ,Legia Warszawa,Press After Possession Loss,Balanced,10,5
+197,224,French Ligue 1 ,N\xc3\xaemes Olympique,Press After Possession Loss,Balanced,1,1
+198,1861,Spanish Segunda División ,UD Almer\xc3\xada,Balanced,Long Ball,4,1
+199,112678,Mexican Liga MX ,Atl\xc3\xa9tico de San Luis,Balanced,Balanced,1,1
+200,113134,Mexican Liga MX ,FC Ju\xc3\xa1rez,Balanced,Balanced,2,1
+201,110144,Mexican Liga MX ,Santos Laguna,Press After Possession Loss,Long Ball,5,8
+202,1365,International,Turkey,Pressure On Heavy Touch,Possession,,6
+203,1920,English League Two ,Oldham Athletic,Drop Back,Long Ball,8,1
+204,1356,International,Romania,Balanced,Balanced,,5
+205,467,Spain Primera Division ,SD Eibar,Press After Possession Loss,Long Ball,4,1
+206,1932,English League Championship ,Barnsley,Press After Possession Loss,Possession,9,1
+207,1935,English League Two ,Colchester United,Pressure On Heavy Touch,Possession,6,1
+208,97,English League Championship ,Millwall,Press After Possession Loss,Long Ball,4,1
+209,110147,Mexican Liga MX ,Pachuca,Balanced,Possession,7,8
+210,1801,English League Championship ,Preston North End,Press After Possession Loss,Balanced,3,1
+211,503,German 2. Bundesliga ,SG Dynamo Dresden,Pressure On Heavy Touch,Balanced,6,1
+212,1377,International,Uruguay,Balanced,Balanced,,7
+213,111822,Austrian Football Bundesliga ,Wolfsberger AC,Drop Back,Long Ball,2,1
+214,62,French Ligue 2 ,En Avant de Guingamp,Balanced,Long Ball,4,2
+215,110329,German 2. Bundesliga ,FC St. Pauli,Pressure On Heavy Touch,Long Ball,6,1
+216,1886,International,Hungary,Balanced,Long Ball,,4
+217,1900,Portuguese Liga ZON SAGRES ,Moreirense FC,Balanced,Balanced,4,1
+218,1929,English League Two ,Plymouth Argyle,Drop Back,Balanced,7,1
+219,480,Spanish Segunda División ,Rayo Vallecano,Press After Possession Loss,Possession,2,1
+220,1896,Portuguese Liga ZON SAGRES ,SC Braga,Press After Possession Loss,Possession,8,3
+221,266,Czech Republic Gambrinus Liga ,SK Slavia Praha,Press After Possession Loss,Balanced,6,3
+222,379,French Ligue 1 ,Stade de Reims,Balanced,Balanced,1,1
+223,1530,French Ligue 1 ,Angers SCO,Balanced,Long Ball,3,1
+224,900,Swiss Super League ,BSC Young Boys,Press After Possession Loss,Balanced,9,4
+225,1353,International,Poland,Balanced,Balanced,,5
+226,112791,Italian Serie A ,SPAL,Press After Possession Loss,Possession,1,1
+227,267,Czech Republic Gambrinus Liga ,Sparta Praha,Balanced,Long Ball,10,4
+228,111701,UAE Arabian Gulf League ,Al Ain FC,Balanced,Balanced,9,6
+229,110816,Romanian Liga I ,CFR Cluj,Pressure On Heavy Touch,Balanced,9,5
+230,1944,English League Two ,Cambridge United,Balanced,Possession,6,1
+231,110569,French Ligue 1 ,Dijon FCO,Balanced,Long Ball,2,1
+232,68,French Ligue 1 ,FC Metz,Press After Possession Loss,Possession,8,1
+233,873,Polish T-Mobile Ekstraklasa ,Lech Pozna\xc5\x84,Press After Possession Loss,Long Ball,10,5
+234,1958,English League Two ,Leyton Orient,Pressure On Heavy Touch,Balanced,5,1
+235,393,Greek Super League ,PAOK,Balanced,Balanced,8,4
+236,112540,Chinese Super League ,Shanghai SIPG FC,Press After Possession Loss,Possession,5,2
+237,112828,USA Major League Soccer ,New York City FC,Press After Possession Loss,Possession,9,5
+238,111817,French Ligue 2 ,Paris FC,Pressure On Heavy Touch,Possession,6,1
+239,110532,German 3. Bundesliga ,SV Waldhof Mannheim,Balanced,Balanced,2,1
+240,561,English League Two ,Forest Green Rovers,Balanced,Balanced,6,1
+241,1917,English League Championship ,Wigan Athletic,Balanced,Balanced,9,1
+242,192,Italian Serie B ,Chievo Verona,Pressure On Heavy Touch,Long Ball,3,2
+243,1331,International,Denmark,Press After Possession Loss,Balanced,,5
+244,110704,Spanish Segunda División ,FC Barcelona B,,,2,1
+245,111239,German 3. Bundesliga ,FC Ingolstadt 04,Pressure On Heavy Touch,Balanced,8,1
+246,110150,Mexican Liga MX ,Quer\xc3\xa9taro,Drop Back,Fast Build Up,3,4
+247,378,French Ligue 1 ,Stade Brestois 29,Balanced,Possession,7,1
+248,110145,Mexican Liga MX ,Tiburones Rojos de Veracruz,Drop Back,Balanced,2,1
+249,1887,Portuguese Liga ZON SAGRES ,Vit\xc3\xb3ria Guimar\xc3\xa3es,Balanced,Long Ball,7,3
+250,605,Saudi Abdul L. Jameel League ,Al Hilal,Press After Possession Loss,Possession,10,7
+251,101114,Mexican Liga MX ,Club Atlas,Pressure On Heavy Touch,Possession,5,3
+252,111678,Mexican Liga MX ,Club Tijuana,Pressure On Heavy Touch,Long Ball,5,6
+253,688,USA Major League Soccer ,DC United,Press After Possession Loss,Balanced,5,4
+254,113149,USA Major League Soccer ,FC Cincinnati,Drop Back,Fast Build Up,1,1
+255,1923,English League Championship ,Luton Town,Balanced,Possession,6,1
+256,456,Spanish Segunda División ,Racing Santander,Balanced,Long Ball,6,1
+257,230,Belgian Jupiler Pro League ,Royal Antwerp FC,Press After Possession Loss,Balanced,2,1
+258,1013,Argentina Primera División  ,San Lorenzo de Almagro,Balanced,Long Ball,9,8
+259,57,French Ligue 2 ,AJ Auxerre,Pressure On Heavy Touch,Long Ball,6,1
+260,1816,French Ligue 1 ,Amiens SC,Pressure On Heavy Touch,Balanced,1,1
+261,1926,English League One ,Blackpool,Drop Back,Possession,5,1
+262,1800,English League One ,Coventry City,Press After Possession Loss,Balanced,6,1
+263,111112,International,C\xc3\xb4te d\'Ivoire,Press After Possession Loss,Balanced,,6
+264,1915,Holland Eredivisie ,FC Groningen,Balanced,Long Ball,6,2
+265,819,Danish Superliga ,FC K\xc3\xb8benhavn,Pressure On Heavy Touch,Balanced,10,4
+266,217,French Ligue 2 ,FC Lorient,Press After Possession Loss,Possession,8,1
+267,1889,Portuguese Liga ZON SAGRES ,Os Belenenses,Balanced,Possession,5,1
+268,111144,USA Major League Soccer ,Seattle Sounders FC,Press After Possession Loss,Balanced,8,4
+269,1909,Holland Eredivisie ,Vitesse,Press After Possession Loss,Possession,8,2
+270,111235,German 2. Bundesliga ,1. FC Heidenheim 1846,Pressure On Heavy Touch,Balanced,4,1
+271,1322,International,Austria,Press After Possession Loss,Possession,,4
+272,92,English League Two ,Grimsby Town,Pressure On Heavy Touch,Balanced,5,1
+273,112254,English League Two ,Newport County,Pressure On Heavy Touch,Balanced,3,1
+274,1938,English League One ,Peterborough United,Drop Back,Fast Build Up,8,1
+275,110839,Spanish Segunda División ,SD Huesca,Drop Back,Fast Build Up,2,1
+276,209,Austrian Football Bundesliga ,SK Sturm Graz,Balanced,Long Ball,8,3
+277,160,German 2. Bundesliga ,VfL Bochum 1848,Press After Possession Loss,Long Ball,7,1
+278,1803,English League Two ,Walsall,Press After Possession Loss,Long Ball,3,1
+279,112026,Italian Serie B ,Benevento,Balanced,Balanced,9,1
+280,111459,International,Chile,Pressure On Heavy Touch,Long Ball,,7
+281,1413,International,China PR,Balanced,Balanced,,3
+282,110980,Chilian Campeonato Nacional ,Colo-Colo,Pressure On Heavy Touch,Possession,10,4
+283,1746,Italian Serie B ,Empoli,Pressure On Heavy Touch,Possession,3,1
+284,27,German 3. Bundesliga ,FC Hansa Rostock,Press After Possession Loss,Possession,4,1
+285,1908,Holland Eredivisie ,FC Twente,Pressure On Heavy Touch,Balanced,6,2
+286,252,Austrian Football Bundesliga ,LASK Linz,Press After Possession Loss,Balanced,3,1
+287,111091,Polish T-Mobile Ekstraklasa ,Lechia Gda\xc5\x84sk,Balanced,Long Ball,7,2
+288,1930,English League Two ,Northampton Town,Press After Possession Loss,Possession,8,1
+289,1951,English League One ,Oxford United,Balanced,Possession,7,1
+290,110827,Spanish Segunda División ,Real Oviedo,Pressure On Heavy Touch,Balanced,8,1
+291,110975,Chilian Campeonato Nacional ,Universidad Cat\xc3\xb3lica,Pressure On Heavy Touch,Balanced,9,6
+292,1367,International,Wales,Drop Back,Balanced,,4
+293,101100,Colombian Liga Postobón ,Atl\xc3\xa9tico Nacional,Balanced,Possession,10,9
+294,110404,Argentina Primera División  ,Club Atl\xc3\xa9tico Banfield,Balanced,Long Ball,5,4
+295,101121,Mexican Liga MX ,Club Necaxa,Pressure On Heavy Touch,Long Ball,2,2
+296,112093,Japanese J. League Division 1 ,Gamba Osaka,Balanced,Possession,8,5
+297,101147,Japanese J. League Division 1 ,Kashima Antlers,Press After Possession Loss,Balanced,9,4
+298,1738,French Ligue 2 ,Le Havre AC,Pressure On Heavy Touch,Possession,7,1
+299,1825,German 3. Bundesliga ,MSV Duisburg,Balanced,Long Ball,3,1
+300,143,English League Two ,Exeter City,Press After Possession Loss,Possession,5,1
+301,167,German 3. Bundesliga ,KFC Uerdingen 05,Press After Possession Loss,Long Ball,8,1
+302,1738,French Ligue 2 ,Le Havre AC,Pressure On Heavy Touch,Possession,7,1
+303,1053,Campeonato Brasileiro Série A ,Santos,Press After Possession Loss,Possession,6,5
+304,278,Greek Super League ,AEK Athens,Pressure On Heavy Touch,Balanced,6,2
+305,112259,English League One ,AFC Wimbledon,Drop Back,Fast Build Up,2,1
+306,1903,Holland Eredivisie ,FC Utrecht,Pressure On Heavy Touch,Balanced,7,2
+307,320,Swedish Allsvenskan ,Malm\xc3\xb6 FF,Press After Possession Loss,Balanced,10,4
+308,1798,English League One ,Milton Keynes Dons,Press After Possession Loss,Balanced,9,1
+309,1375,International,Paraguay,Press After Possession Loss,Balanced,,4
+310,1359,International,Scotland,Balanced,Balanced,,4
+311,1949,English League Two ,Scunthorpe United,Balanced,Long Ball,7,1
+312,1934,English League Two ,Swindon Town,Balanced,Long Ball,7,1
+313,567,Campeonato Brasileiro Série A ,Fluminense,Pressure On Heavy Touch,Possession,9,5
+314,576,German 2. Bundesliga ,Holstein Kiel,Pressure On Heavy Touch,Possession,2,1
+315,101101,Colombian Liga Postobón ,Junior FC,Press After Possession Loss,Balanced,8,7
+316,1959,English League Two ,Macclesfield Town,Balanced,Balanced,1,1
+317,1884,Greek Super League ,Panathinaikos FC,Press After Possession Loss,Balanced,8,3
+318,111400,Australian Hyundai A-League ,Sydney FC,Press After Possession Loss,Possession,10,5
+319,111455,International,Canada,Drop Back,Fast Build Up,,2
+320,112378,Chinese Super League ,Dalian YiFang FC,Balanced,Balanced,2,1
+321,1788,Danish Superliga ,FC Nordsj\xc3\xa6lland,Press After Possession Loss,Possession,7,2
+322,113180,Romanian Liga I ,FC Viitorul,Balanced,Balanced,8,4
+323,256,Austrian Football Bundesliga ,FK Austria Wien,Press After Possession Loss,Balanced,7,4
+324,100325,Finnish Veikkausliiga ,HJK Helsinki,Balanced,Long Ball,10,1
+325,110482,German 3. Bundesliga ,Hallescher FC,Drop Back,Possession,5,1
+326,110724,Belgian Jupiler Pro League ,KV Mechelen,Balanced,Balanced,6,1
+327,149,English League One ,Lincoln City,Press After Possession Loss,Long Ball,8,1
+328,111399,Australian Hyundai A-League ,Perth Glory,Balanced,Possession,4,1
+329,1928,English League Two ,Port Vale,Drop Back,Long Ball,8,1
+330,111651,USA Major League Soccer ,Toronto FC,Pressure On Heavy Touch,Balanced,8,4
+331,15048,English League One ,Tranmere Rovers,Balanced,Long Ball,4,1
+332,114023,Australian Hyundai A-League ,Western United FC,Balanced,Balanced,1,1
+333,1907,Holland Eredivisie ,Willem II,Pressure On Heavy Touch,Possession,4,1
+334,1873,Polish T-Mobile Ekstraklasa ,Wis\xc5\x82a Krak\xc3\xb3w,Balanced,Balanced,7,3
+335,1854,Spanish Segunda División ,Albacete BP,Pressure On Heavy Touch,Balanced,4,1
+336,1035,Campeonato Brasileiro Série A ,Atl\xc3\xa9tico Mineiro,Pressure On Heavy Touch,Long Ball,7,6
+337,110406,Argentina Primera División  ,Club Atl\xc3\xa9tico Col\xc3\xb3n,Press After Possession Loss,Possession,6,5
+338,100757,Romanian Liga I ,Dinamo Bucure\xc5\x9fti,Balanced,Balanced,7,3
+339,101083,Argentina Primera División  ,Estudiantes de La Plata,Balanced,Balanced,8,6
+340,1802,English League One ,Gillingham,Balanced,Long Ball,2,1
+341,80,Scottish Premiership ,Heart of Midlothian,Pressure On Heavy Touch,Balanced,7,1
+342,1048,Campeonato Brasileiro Série A ,Internacional,Balanced,Balanced,7,6
+343,110745,Polish T-Mobile Ekstraklasa ,Jagiellonia Bia\xc5\x82ystok,Press After Possession Loss,Balanced,8,4
+344,111730,Japanese J. League Division 1 ,Kawasaki Frontale,Press After Possession Loss,Possession,8,5
+345,357,English League Two ,Morecambe,Drop Back,Long Ball,2,1
+346,1352,International,Norway,Balanced,Long Ball,,3
+347,744,Portuguese Liga ZON SAGRES ,Rio Ave FC,Press After Possession Loss,Possession,6,2
+348,1913,Holland Eredivisie ,SC Heerenveen,Press After Possession Loss,Possession,6,2
+349,680,Belgian Jupiler Pro League ,Sint-Truidense VV,Balanced,Long Ball,3,1
+350,361,English League Two ,Stevenage,Pressure On Heavy Touch,Balanced,4,1
+351,1363,International,Sweden,Press After Possession Loss,Balanced,,5
+352,15029,Chilian Campeonato Nacional ,Universidad de Chile,Pressure On Heavy Touch,Balanced,10,7
+353,308,Romanian Liga I ,Universitatea Craiova,Pressure On Heavy Touch,Balanced,8,4
+354,111487,International,Venezuela,Drop Back,Fast Build Up,,2
+355,487,German 2. Bundesliga ,VfL Osnabr\xc3\xbcck,Press After Possession Loss,Balanced,5,1
+356,101151,Japanese J. League Division 1 ,Yokohama F. Marinos,Balanced,Possession,6,4
+357,112139,Saudi Abdul L. Jameel League ,Al Nassr,Press After Possession Loss,Possession,8,5
+358,111710,Argentina Primera División  ,Defensa y Justicia,Press After Possession Loss,Possession,6,3
+359,112606,USA Major League Soccer ,Orlando City SC,Press After Possession Loss,Long Ball,5,5
+360,100831,Spanish Segunda División ,AD Alcorc\xc3\xb3n,Balanced,Balanced,6,1
+361,110065,Spanish Segunda División ,CF Fuenlabrada,Pressure On Heavy Touch,Long Ball,2,1
+362,110890,English League Two ,Crawley Town,Balanced,Balanced,2,1
+363,111710,Argentina Primera División  ,Defensa y Justicia,Press After Possession Loss,Possession,6,3
+364,710,Swedish Allsvenskan ,Djurg\xc3\xa5rdens IF,Press After Possession Loss,Possession,6,2
+365,110500,German 3. Bundesliga ,Eintracht Braunschweig,Press After Possession Loss,Long Ball,10,1
+366,319,Swedish Allsvenskan ,IFK G\xc3\xb6teborg,Press After Possession Loss,Possession,8,2
+367,111108,International,Peru,Press After Possession Loss,Long Ball,,3
+368,110738,Italian Serie B ,Pisa,Drop Back,Long Ball,2,1
+369,110746,Polish T-Mobile Ekstraklasa ,Pogo\xc5\x84 Szczecin,Press After Possession Loss,Balanced,6,2
+370,111560,Belgian Jupiler Pro League ,Royal Excel Mouscron,Drop Back,Fast Build Up,2,1
+371,1357,International,Russia,Balanced,Balanced,,6
+372,127,English League One ,Shrewsbury,Balanced,Balanced,5,1
+373,1954,English League One ,Southend United,Balanced,Balanced,6,1
+374,210,French Ligue 2 ,Stade Malherbe Caen,Drop Back,Long Ball,3,1
+375,1364,International,Switzerland,Balanced,Balanced,,5
+376,205,Italian Serie B ,Venezia FC,Balanced,Possession,8,1
+377,614,French Ligue 2 ,AC Ajaccio,Balanced,Long Ball,5,1
+378,433,Swedish Allsvenskan ,AIK,Balanced,Balanced,10,3
+379,77,Scottish Premiership ,Aberdeen,Pressure On Heavy Touch,Balanced,8,2
+380,112387,Saudi Abdul L. Jameel League ,Al Ahli,Press After Possession Loss,Balanced,9,6
+381,110734,Italian Serie B ,Crotone,Balanced,Possession,8,1
+382,110591,German 3. Bundesliga ,FC Carl Zeiss Jena,Balanced,Balanced,2,1
+383,226,French Ligue 2 ,FC Sochaux-Montb\xc3\xa9liard,Balanced,Balanced,6,1
+384,894,Swiss Super League ,FC Z\xc3\xbcrich,Balanced,Possession,6,4
+385,110592,German 3. Bundesliga ,FSV Zwickau,Drop Back,Fast Build Up,3,1
+386,708,Swedish Allsvenskan ,Hammarby IF,Press After Possession Loss,Balanced,6,1
+387,112224,Australian Hyundai A-League ,Melbourne City FC,Drop Back,Possession,8,3
+388,110396,Argentina Primera División  ,Newell\'s Old Boys,Balanced,Balanced,7,6
+389,199,Italian Serie B ,Perugia,Balanced,Long Ball,6,1
+390,10031,Portuguese Liga ZON SAGRES ,Portimonense SC,Pressure On Heavy Touch,Balanced,3,1
+391,111140,USA Major League Soccer ,Portland Timbers,Balanced,Long Ball,7,3
+392,110152,Mexican Liga MX ,Puebla FC,Drop Back,Possession,4,2
+393,1355,International,Republic of Ireland,Press After Possession Loss,Balanced,,5
+394,2023,Spanish Segunda División ,SD Ponferradina,Drop Back,Balanced,6,1
+395,110502,German 2. Bundesliga ,SV Darmstadt 98,Drop Back,Long Ball,6,1
+396,110597,German 3. Bundesliga ,SV Meppen,Balanced,Long Ball,2,1
+397,110955,Chinese Super League ,Shanghai Greenland Shenhua FC,Drop Back,Fast Build Up,5,3
+398,101041,Turkish Süper Lig ,Sivasspor,Balanced,Balanced,4,1
+399,172,German 3. Bundesliga ,SpVgg Unterhaching,Balanced,Possession,5,1
+400,100646,Holland Eredivisie ,Sparta Rotterdam,Balanced,Balanced,3,1
+401,111132,Rep. Ireland Airtricity League ,UCD AFC,Balanced,Possession,1,1
+402,110645,German 3. Bundesliga ,Viktoria K\xc3\xb6ln,Pressure On Heavy Touch,Balanced,2,1
+403,100769,Russian Premier League ,Zenit St. Petersburg,,,10,7
+404,113142,Turkish Süper Lig ,Alanyaspor,Pressure On Heavy Touch,Long Ball,2,1
+405,112516,Portuguese Liga ZON SAGRES ,CD Tondela,Drop Back,Long Ball,2,1
+406,113677,Campeonato Brasileiro Série A ,CSA - AL,Balanced,Long Ball,1,1
+407,111465,International,Ecuador,Press After Possession Loss,Balanced,,5
+408,101150,Japanese J. League Division 1 ,FC Tokyo,Pressure On Heavy Touch,Balanced,7,5
+409,111657,Italian Serie B ,Frosinone,Pressure On Heavy Touch,Balanced,2,1
+410,101025,Turkish Süper Lig ,Gen\xc3\xa7lerbirli\xc4\x9fi SK,Press After Possession Loss,Long Ball,6,3
+411,112978,Chinese Super League ,Hebei China Fortune FC,Pressure On Heavy Touch,Long Ball,3,1
+412,112162,Chinese Super League ,Jiangsu Suning FC,Pressure On Heavy Touch,Long Ball,7,4
+413,111339,Turkish Süper Lig ,Kasimpa\xc5\x9fa SK,Balanced,Balanced,4,3
+414,111397,Australian Hyundai A-League ,Melbourne Victory,Balanced,Balanced,10,5
+415,111659,French Ligue 2 ,Rodez Aveyron Football,Balanced,Balanced,2,1
+416,110580,Argentina Primera División  ,Rosario Central,Balanced,Balanced,7,4
+417,110373,Italian Serie B ,US Salernitana 1919,Balanced,Long Ball,5,1
+418,111575,Japanese J. League Division 1 ,Urawa Red Diamonds,Pressure On Heavy Touch,Long Ball,9,5
+419,110456,French Ligue 2 ,Valenciennes FC,Pressure On Heavy Touch,Balanced,3,1
+420,260,Spanish Segunda División ,CD Tenerife,Press After Possession Loss,Possession,7,1
+421,1936,English League Two ,Cheltenham Town,Balanced,Long Ball,4,1
+422,1815,French Ligue 2 ,Clermont Foot 63,Pressure On Heavy Touch,Balanced,4,1
+423,159,German 2. Bundesliga ,DSC Arminia Bielefeld,Press After Possession Loss,Balanced,4,1
+424,837,Rep. Ireland Airtricity League ,Dundalk,Press After Possession Loss,Possession,10,2
+425,1516,Danish Superliga ,FC Midtjylland,Press After Possession Loss,Possession,10,3
+426,1334,International,Finland,Drop Back,Long Ball,,3
+427,634,Holland Eredivisie ,Fortuna Sittard,Balanced,Long Ball,3,1
+428,101025,Turkish Süper Lig ,Gen\xc3\xa7lerbirli\xc4\x9fi SK,Press After Possession Loss,Long Ball,6,3
+429,81,Scottish Premiership ,Hibernian,Press After Possession Loss,Balanced,7,1
+430,1477,Korean K League Classic ,Jeonbuk Hyundai Motors,Balanced,Possession,10,6
+431,100081,Belgian Jupiler Pro League ,KV Kortrijk,Balanced,Balanced,5,1
+432,200,Italian Serie B ,Pescara,Press After Possession Loss,Long Ball,7,1
+433,298,Norwegian Eliteserien ,Rosenborg BK,Balanced,Balanced,10,4
+434,531,German 3. Bundesliga ,SC Preu\xc3\x9fen M\xc3\xbcnster,Press After Possession Loss,Balanced,6,1
+435,165,German 2. Bundesliga ,SpVgg Greuther F\xc3\xbcrth,Press After Possession Loss,Balanced,5,1
+436,696,USA Major League Soccer ,Sporting Kansas City,Press After Possession Loss,Possession,7,2
+437,1933,English League One ,Wycombe Wanderers,Press After Possession Loss,Long Ball,1,1
+438,271,Danish Superliga ,Aarhus GF,Balanced,Long Ball,6,1
+439,111768,Chinese Super League ,Beijing Sinobo Guoan FC,Drop Back,Possession,7,4
+440,1898,Portuguese Liga ZON SAGRES ,Boavista FC,Balanced,Balanced,4,2
+441,15015,English League One ,Burton Albion,Balanced,Long Ball,7,1
+442,477,Spanish Segunda División ,CD Numancia,Balanced,Long Ball,7,1
+443,694,USA Major League Soccer ,Colorado Rapids,Balanced,Long Ball,2,1
+444,687,USA Major League Soccer ,Columbus Crew SC,Press After Possession Loss,Possession,7,3
+445,1968,Spanish Segunda División ,C\xc3\xa1diz CF,Pressure On Heavy Touch,Long Ball,5,1
+446,468,Spanish Segunda División ,Elche CF,Balanced,Long Ball,2,1
+447,112627,French Ligue 2 ,FC Chambly Oise,Drop Back,Long Ball,1,1
+448,695,USA Major League Soccer ,FC Dallas,Press After Possession Loss,Balanced,7,2
+449,506,German 2. Bundesliga ,FC Erzgebirge Aue,Press After Possession Loss,Balanced,2,1
+450,110197,German 3. Bundesliga ,FC W\xc3\xbcrzburger Kickers,Balanced,Possession,6,1
+451,110776,Turkish Süper Lig ,Gazi\xc5\x9fehir Gaziantep F.K.,Balanced,Balanced,3,1
+452,100634,Holland Eredivisie ,Heracles Almelo,Press After Possession Loss,Balanced,5,1
+453,702,Swedish Allsvenskan ,IFK Norrk\xc3\xb6ping,Press After Possession Loss,Possession,8,2
+454,111466,International,India,Balanced,Long Ball,,1
+455,1739,French Ligue 2 ,Le Mans FC,Balanced,Long Ball,2,1
+456,112092,Japanese J. League Division 1 ,Nagoya Grampus,Press After Possession Loss,Possession,4,3
+457,1955,English League One ,Rochdale,Press After Possession Loss,Possession,3,1
+458,15005,Belgian Jupiler Pro League ,SV Zulte-Waregem,Pressure On Heavy Touch,Balanced,7,2
+459,111928,USA Major League Soccer ,San Jose Earthquakes,Press After Possession Loss,Possession,3,2
+460,306,Rep. Ireland Airtricity League ,Shamrock Rovers,Balanced,Possession,9,1
+461,111773,Chinese Super League ,Shenzhen FC,Pressure On Heavy Touch,Long Ball,4,1
+462,110977,Chilian Campeonato Nacional ,Uni\xc3\xb3n Espa\xc3\xb1ola,Pressure On Heavy Touch,Balanced,6,6
+463,110588,German 3. Bundesliga ,1. FC Magdeburg,Pressure On Heavy Touch,Long Ball,3,1
+464,111019,Argentina Primera División  ,Argentinos Juniors,Pressure On Heavy Touch,Balanced,6,5
+465,1395,International,Cameroon,Press After Possession Loss,Possession,,5
+466,1480,English League Two ,Carlisle United,Balanced,Possession,5,1
+467,112965,Argentina Primera División  ,Central C\xc3\xb3rdoba,Drop Back,Fast Build Up,1,3
+468,111993,Italian Serie B ,Cittadella,Pressure On Heavy Touch,Possession,4,1
+469,110747,Polish T-Mobile Ekstraklasa ,Cracovia,Balanced,Long Ball,4,2
+470,111130,International,Egypt,Balanced,Balanced,,5
+471,1892,Portuguese Liga ZON SAGRES ,FC Pa\xc3\xa7os de Ferreira,Balanced,Long Ball,5,1
+472,110770,Swiss Super League ,FC Sion,Balanced,Balanced,7,3
+473,112429,Chinese Super League ,Guangzhou R&F FC,Balanced,Possession,5,4
+474,110929,South African Premier Division ,Kaizer Chiefs,Press After Possession Loss,Possession,9,6
+475,111139,USA Major League Soccer ,Montreal Impact,Drop Back,Possession,4,4
+476,111086,Polish T-Mobile Ekstraklasa ,Piast Gliwice,Press After Possession Loss,Balanced,6,4
+477,1905,Holland Eredivisie ,RKC Waalwijk,Balanced,Balanced,1,1
+478,111724,Chinese Super League ,Shandong Luneng TaiShan FC,Balanced,Balanced,6,3
+479,112535,Chilian Campeonato Nacional ,Uni\xc3\xb3n La Calera,Drop Back,Fast Build Up,3,1
+480,1395,International,Cameroon,Press After Possession Loss,Possession,,5
+481,507,German 3. Bundesliga ,Chemnitzer FC,Balanced,Long Ball,1,1
+482,693,USA Major League Soccer ,Chicago Fire,Pressure On Heavy Touch,Balanced,5,1
+483,142,English League One ,Doncaster Rovers,Press After Possession Loss,Balanced,4,1
+484,1338,International,Greece,Balanced,Long Ball,,6
+485,420,Polish T-Mobile Ekstraklasa ,G\xc3\xb3rnik Zabrze,Pressure On Heavy Touch,Long Ball,5,2
+486,691,USA Major League Soccer ,New England Revolution,Press After Possession Loss,Balanced,5,3
+487,459,Spanish Segunda División ,Real Sporting de Gij\xc3\xb3n,Pressure On Heavy Touch,Balanced,8,1
+488,650,Holland Eredivisie ,ADO Den Haag,Balanced,Long Ball,5,1
+489,1823,French Ligue 2 ,AS Nancy Lorraine,Balanced,Balanced,7,1
+490,110313,English League One ,Accrington Stanley,Balanced,Long Ball,1,1
+491,111393,Australian Hyundai A-League ,Adelaide United,Pressure On Heavy Touch,Balanced,4,3
+492,101097,Chilian Campeonato Nacional ,Audax Italiano,Press After Possession Loss,Possession,7,2
+493,1415,International,Australia,Press After Possession Loss,Possession,,5
+494,111395,Australian Hyundai A-League ,Brisbane Roar,Pressure On Heavy Touch,Balanced,7,4
+495,112584,Chilian Campeonato Nacional ,CD Everton de Vi\xc3\xb1a del Mar,Balanced,Balanced,1,1
+496,112116,Chilian Campeonato Nacional ,CD O\'Higgins,Pressure On Heavy Touch,Long Ball,8,3
+497,112124,Italian Serie B ,Castellammare di Stabia,Drop Back,Balanced,1,1
+498,111396,Australian Hyundai A-League ,Central Coast Mariners,Balanced,Balanced,1,3
+499,101148,Japanese J. League Division 1 ,Cerezo Osaka,Balanced,Balanced,7,5
+500,112670,Argentina Primera División  ,Club Atl\xc3\xa9tico Talleres,Press After Possession Loss,Possession,6,6
+501,568,Campeonato Brasileiro Série A ,Cruzeiro,Pressure On Heavy Touch,Possession,10,6
+502,112260,English League One ,Fleetwood Town,Press After Possession Loss,Possession,4,1
+503,1888,Portuguese Liga ZON SAGRES ,Gil Vicente FC,Balanced,Long Ball,2,1
+504,101084,Argentina Primera División  ,Gimnasia y Esgrima La Plata,Press After Possession Loss,Balanced,5,2
+505,112444,Japanese J. League Division 1 ,Hokkaido Consadole Sapporo,Pressure On Heavy Touch,Balanced,3,1
+506,101103,Colombian Liga Postobón ,Independiente Medell\xc3\xadn,Balanced,Possession,9,6
+507,101104,Colombian Liga Postobón ,Independiente Santa Fe,Drop Back,Long Ball,9,8
+508,2013,Belgian Jupiler Pro League ,KAS Eupen,Balanced,Long Ball,2,1
+509,101020,Turkish Süper Lig ,Kayserispor,Pressure On Heavy Touch,Long Ball,4,2
+510,101007,Turkish Süper Lig ,MKE Ankarag\xc3\xbcc\xc3\xbc,Pressure On Heavy Touch,Long Ball,5,5
+511,417,Norwegian Eliteserien ,Molde FK,Press After Possession Loss,Possession,10,3
+512,111398,Australian Hyundai A-League ,Newcastle Jets,Drop Back,Fast Build Up,3,1
+513,110081,International,Northern Ireland,Balanced,Balanced,,2
+514,110930,South African Premier Division ,Orlando Pirates,Balanced,Possession,10,5
+515,112134,USA Major League Soccer ,Philadelphia Union,Balanced,Possession,4,1
+516,1797,English League One ,Rotherham United,Balanced,Long Ball,7,1
+517,111379,German 3. Bundesliga ,SG Sonnenhof Gro\xc3\x9faspach,Balanced,Balanced,5,1
+518,492,German 2. Bundesliga ,SV Wehen Wiesbaden,Pressure On Heavy Touch,Balanced,8,1
+519,113160,Japanese J. League Division 1 ,Sagan Tosu,Press After Possession Loss,Long Ball,5,2
+520,101149,Japanese J. League Division 1 ,Shimizu S-Pulse,Pressure On Heavy Touch,Long Ball,3,1
+521,100804,Scottish Premiership ,St. Johnstone FC,Balanced,Long Ball,5,1
+522,112410,Italian Serie B ,Trapani,Balanced,Balanced,2,1
+523,110468,Czech Republic Gambrinus Liga ,Viktoria Plze\xc5\x88,Pressure On Heavy Touch,Balanced,7,3
+524,113147,Italian Serie B ,Virtus Entella,Balanced,Balanced,2,1
+525,15040,Austrian Football Bundesliga ,WSG Tirol,Balanced,Long Ball,1,1
+526,112541,Chinese Super League ,Wuhan Zall,Balanced,Balanced,1,1
+527,101099,Colombian Liga Postobón ,Am\xc3\xa9rica de Cali,Balanced,Long Ball,6,5
+528,112847,Romanian Liga I ,Astra Giurgiu,Balanced,Balanced,7,3
+529,101033,Turkish Süper Lig ,Atiker Konyaspor,Pressure On Heavy Touch,Possession,6,3
+530,110854,Spanish Segunda División ,CF Reus Deportiu,Balanced,Balanced,4,1
+531,112705,Chilian Campeonato Nacional ,Coquimbo Unido,Drop Back,Long Ball,1,1
+532,112168,Italian Serie B ,Cosenza,Pressure On Heavy Touch,Balanced,1,1
+533,111722,Colombian Liga Postobón ,Deportes Tolima,Balanced,Balanced,9,6
+534,101102,Colombian Liga Postobón ,Deportivo Cali,Balanced,Balanced,8,7
+535,111821,Austrian Football Bundesliga ,FC Admira Wacker M\xc3\xb6dling,Balanced,Balanced,5,2
+536,114147,Romanian Liga I ,FC Hermannstadt,Balanced,Long Ball,3,2
+537,113183,Japanese J. League Division 1 ,Oita Trinita,Balanced,Balanced,3,1
+538,113958,Italian Serie B ,Pordenone,Drop Back,Long Ball,1,1
+539,112075,Austrian Football Bundesliga ,SKN St. P\xc3\xb6lten,Balanced,Long Ball,1,1
+540,543,German 2. Bundesliga , SSV Jahn Regensburg,Press After Possession Loss,Long Ball,2,1
+541,820,Danish Superliga ,Aalborg BK,Press After Possession Loss,Balanced,8,1
+542,101033,Turkish Süper Lig ,Atiker Konyaspor,Pressure On Heavy Touch,Possession,6,3
+543,305,Rep. Ireland Airtricity League ,Bohemian FC,Balanced,Balanced,6,1
+544,269,Danish Superliga ,Br\xc3\xb8ndby IF,Press After Possession Loss,Long Ball,10,2
+545,1327,International,Bulgaria,Balanced,Balanced,,5
+546,1457,Turkish Süper Lig ,Denizlispor,Drop Back,Long Ball,4,2
+547,294,French Ligue 2 ,ESTAC Troyes,Press After Possession Loss,Possession,9,1
+548,1805,French Ligue 2 ,Grenoble Foot 38,Balanced,Long Ball,1,1
+549,101026,Turkish Süper Lig ,G\xc3\xb6ztepe SK,Balanced,Possession,4,1
+550,432,Swedish Allsvenskan ,Helsingborgs IF,Balanced,Long Ball,2,1
+551,1750,Belgian Jupiler Pro League ,KSV Cercle Brugge,Drop Back,Fast Build Up,6,3
+552,682,Belgian Jupiler Pro League ,KV Oostende,Balanced,Balanced,7,2
+553,1844,Italian Serie B ,Livorno,Pressure On Heavy Touch,Balanced,5,1
+554,1914,Holland Eredivisie ,PEC Zwolle,Press After Possession Loss,Possession,5,1
+555,1843,Italian Serie B ,Palermo,Press After Possession Loss,Balanced,8,2
+556,15009,Austrian Football Bundesliga ,SCR Altach,Press After Possession Loss,Balanced,4,1
+557,423,Rep. Ireland Airtricity League ,St. Patrick\'s Athletic,Balanced,Long Ball,7,1
+558,983,Korean K League Classic ,Suwon Samsung Bluewings,Balanced,Possession,8,5
+559,1473,Korean K League Classic ,Ulsan Hyundai FC,Balanced,Balanced,7,6
+560,607,Saudi Abdul L. Jameel League ,Al Ittihad,Press After Possession Loss,Possession,8,5
+561,741,Turkish Süper Lig ,Antalyaspor,Balanced,Balanced,5,3
+562,1847,Italian Serie B ,Ascoli,Balanced,Balanced,4,1
+563,111327,Chilian Campeonato Nacional ,CD Huachipato,Balanced,Balanced,4,3
+564,110831,Spanish Segunda División ,CD Lugo,Press After Possession Loss,Possession,5,1
+565,1330,International,Czech Republic,Balanced,Balanced,,5
+566,1445,Danish Superliga ,Esbjerg fB,Press After Possession Loss,Balanced,2,1
+567,112218,Russian Premier League ,FC Krasnodar,,,8,6
+568,898,Swiss Super League ,FC St. Gallen,Balanced,Balanced,6,4
+569,1043,Campeonato Brasileiro Série A ,Flamengo,,,20,13
+570,1832,German 2. Bundesliga ,Karlsruher SC,Pressure On Heavy Touch,Possession,9,1
+571,82,Scottish Premiership ,Kilmarnock,Pressure On Heavy Touch,Balanced,6,1
+572,83,Scottish Premiership ,Motherwell,Balanced,Balanced,5,1
+573,110227,Russian Premier League ,Rubin Kazan,,,7,5
+574,110169,German 3. Bundesliga ,SC Fortuna K\xc3\xb6ln,Drop Back,Balanced,4,1
+575,1785,Austrian Football Bundesliga ,SV Mattersburg,Drop Back,Fast Build Up,4,3
+576,1361,International,Slovenia,Pressure On Heavy Touch,Balanced,,5
+577,670,Belgian Jupiler Pro League ,Sporting de Charleroi,Balanced,Long Ball,6,2
+578,111434,Italian Serie B ,US Cremonese,Balanced,Balanced,5,1
+579,111716,Argentina Primera División  ,Uni\xc3\xb3n de Santa Fe,Pressure On Heavy Touch,Long Ball,6,5
+580,110913,Belgian Jupiler Pro League ,Waasland-Beveren,Balanced,Long Ball,3,1
+581,111085,Polish T-Mobile Ekstraklasa ,LKS Lodz,Balanced,Balanced,3,1
+582,113391,Romanian Liga I ,Academica Clinceni,Balanced,Balanced,1,1
+583,113345,Saudi Abdul L. Jameel League ,Al Adalah,Balanced,Long Ball,1,1
+584,1962,English League One ,Bristol Rovers,Pressure On Heavy Touch,Balanced,6,1
+585,112533,Chilian Campeonato Nacional ,CD Antofagasta,Balanced,Long Ball,4,1
+586,110978,Chilian Campeonato Nacional ,CD Cobresal,Drop Back,Long Ball,2,2
+587,110069,Spanish Segunda División ,CD Mirand\xc3\xa9s,Drop Back,Balanced,4,1
+588,111328,Chilian Campeonato Nacional ,CD Palestino,Balanced,Long Ball,6,3
+589,112637,Romanian Liga I ,Gaz Metan Media\xc5\x9f,Balanced,Balanced,6,3
+590,1341,International,Iceland,Balanced,Balanced,,3
+591,101144,Japanese J. League Division 1 ,J\xc3\xbabilo Iwata,Balanced,Long Ball,6,3
+592,111083,Polish T-Mobile Ekstraklasa ,Korona Kielce,Press After Possession Loss,Long Ball,5,2
+593,113158,Japanese J. League Division 1 ,Matsumoto Yamaga,Balanced,Long Ball,1,1
+594,111138,USA Major League Soccer ,Minnesota United FC,Drop Back,Balanced,3,1
+595,111473,International,New Zealand,Pressure On Heavy Touch,Balanced,,2
+596,1937,English League Two ,Notts County,Balanced,Balanced,9,2
+597,110178,German 2. Bundesliga ,SV Sandhausen,Balanced,Long Ball,2,1
+598,112836,Japanese J. League Division 1 ,Vegalta Sendai,Press After Possession Loss,Possession,5,4
+599,1569,Polish T-Mobile Ekstraklasa ,Wis\xc5\x82a P\xc5\x82ock,Balanced,Possession,5,2
+600,1039,Campeonato Brasileiro Série A ,Atl\xc3\xa9tico Paranaense,Balanced,Balanced,5,4
+601,445,Rep. Ireland Airtricity League ,Derry City,Balanced,Balanced,8,1
+602,469,Spanish Segunda División ,Extremadura UD,Pressure On Heavy Touch,Long Ball,1,1
+603,1341,International,Iceland,Balanced,Balanced,,3
+604,272,Danish Superliga ,Odense Boldklub,Pressure On Heavy Touch,Long Ball,6,1
+605,631,Scottish Premiership ,Ross County FC,Drop Back,Long Ball,2,1
+606,270,Danish Superliga ,Silkeborg IF,Drop Back,Balanced,2,1
+607,418,Norwegian Eliteserien ,Troms\xc3\xb8 IL,Drop Back,Possession,5,1
+608,920,Norwegian Eliteserien ,V\xc3\xa5lerenga Fotball,Press After Possession Loss,Possession,7,2
+609,1446,Danish Superliga ,AC Horsens,Drop Back,Long Ball,3,1
+610,112171,Swedish Allsvenskan ,AFC Eskilstuna,Drop Back,Fast Build Up,1,1
+611,113948,French Ligue 2 ,AS B\xc3\xa9ziers,Balanced,Balanced,1,1
+612,111708,Argentina Primera División  ,Atl\xc3\xa9tico Tucum\xc3\xa1n,Press After Possession Loss,Balanced,4,2
+613,711,Swedish Allsvenskan ,BK H\xc3\xa4cken,Press After Possession Loss,Possession,6,1
+614,111451,International,Bolivia,Balanced,Balanced,,1
+615,517,Campeonato Brasileiro Série A ,Botafogo,Balanced,Balanced,6,4
+616,838,Rep. Ireland Airtricity League ,Bray Wanderers,Pressure On Heavy Touch,Balanced,2,1
+617,1891,Portuguese Liga ZON SAGRES ,CD Nacional,Balanced,Long Ball,3,1
+618,112534,Chilian Campeonato Nacional ,CD Universidad de Concepci\xc3\xb3n,Balanced,Balanced,6,1
+619,110066,Spanish Segunda División ,CF Rayo Majadahonda,Drop Back,Long Ball,1,1
+620,113387,Romanian Liga I ,Chindia T\xc3\xa2rgovi\xc5\x9fte,Balanced,Balanced,2,1
+621,112165,Chinese Super League ,Chongqing Dangdai Lifan FC SWM Team,Drop Back,Long Ball,2,1
+622,111723,Colombian Liga Postobón ,Deportivo Pasto,Balanced,Balanced,3,2
+623,100766,Russian Premier League ,FC Anzhi Makhachkala,,,2,4
+624,110752,Romanian Liga I ,FC Boto\xc5\x9fani,Balanced,Balanced,6,2
+625,100628,Holland Eredivisie ,FC Emmen,Balanced,Long Ball,1,1
+626,10032,Swiss Super League ,FC Lugano,Pressure On Heavy Touch,Long Ball,3,1
+627,897,Swiss Super League ,FC Luzern,Press After Possession Loss,Balanced,5,3
+628,110231,Russian Premier League ,FC Rostov,,,6,5
+629,982,Korean K League Classic ,FC Seoul,Balanced,Balanced,8,7
+630,322,Swiss Super League ,Grasshopper Club Z\xc3\xbcrich,Balanced,Balanced,6,3
+631,111588,Korean K League Classic ,Gyeongnam FC,Press After Possession Loss,Long Ball,3,1
+632,184,Scottish Premiership ,Hamilton Academical FC,Drop Back,Fast Build Up,1,1
+633,112425,Danish Superliga ,Hobro IK,Drop Back,Balanced,1,1
+634,212,French Ligue 2 ,La Berrichonne de Ch\xc3\xa2teauroux,Drop Back,Balanced,3,1
+635,299,Norwegian Eliteserien ,Lillestr\xc3\xb8m SK,Drop Back,Long Ball,6,1
+636,15001,Danish Superliga ,Lyngby BK,Drop Back,Fast Build Up,1,1
+637,1904,Holland Eredivisie ,NAC Breda,Drop Back,Fast Build Up,2,1
+638,1786,Danish Superliga ,Randers FC,Balanced,Long Ball,4,1
+639,113157,Japanese J. League Division 1 ,Sanfrecce Hiroshima,Pressure On Heavy Touch,Balanced,10,5
+640,1438,Portuguese Liga ZON SAGRES ,Santa Clara,Pressure On Heavy Touch,Long Ball,1,1
+641,111099,International,South Africa,Drop Back,Possession,,4
+642,110741,Italian Serie B ,Spezia,Pressure On Heavy Touch,Possession,6,1
+643,100805,Scottish Premiership ,St. Mirren,Pressure On Heavy Touch,Balanced,2,1
+644,1447,Danish Superliga ,S\xc3\xb8nderjyskE,Balanced,Balanced,4,1
+645,2017,Austrian Football Bundesliga ,TSV Hartberg,Drop Back,Fast Build Up,2,1
+646,112983,Chinese Super League ,Tianjin Quanjian FC,Balanced,Possession,9,6
+647,100651,Holland Eredivisie ,VVV-Venlo,Balanced,Long Ball,3,1
+648,753,Rep. Ireland Airtricity League ,Waterford FC,Balanced,Possession,5,1
+649,113259,Turkish Süper Lig ,Yeni Malatyaspor,Drop Back,Balanced,2,1
+650,101037,Turkish Süper Lig ,\xc3\x87aykur Rizespor,Drop Back,Fast Build Up,3,2
+651,705,Swedish Allsvenskan ,\xc3\x96rebro SK,Drop Back,Balanced,5,1
+652,113173,Swedish Allsvenskan ,\xc3\x96stersunds FK,Press After Possession Loss,Possession,7,3
+653,112537,Chinese Super League ,Beijing Renhe FC,Press After Possession Loss,Balanced,6,4
+654,112510,Polish T-Mobile Ekstraklasa ,Bruk-Bet Termalica Nieciecza,,,4,1
+655,112655,Chilian Campeonato Nacional ,Curic\xc3\xb3 Unido,Drop Back,Fast Build Up,2,1
+656,112531,Chilian Campeonato Nacional ,Deportes Iquique,Pressure On Heavy Touch,Balanced,4,3
+657,113182,Romanian Liga I ,FC Voluntari,Drop Back,Fast Build Up,4,3
+658,113458,Swedish Allsvenskan ,IK Sirius,Press After Possession Loss,Possession,1,1
+659,114326,Polish T-Mobile Ekstraklasa ,Rak\xc3\xb3w Cz\xc4\x99stochowa,Balanced,Long Ball,2,1
+660,110401,Turkish Süper Lig ,Adanaspor,,,1,1
+661,111674,Saudi Abdul L. Jameel League ,Al Shabab,Balanced,Balanced,7,4
+662,112408,Saudi Abdul L. Jameel League ,Al Wehda,Pressure On Heavy Touch,Long Ball,4,1
+663,112001,Campeonato Brasileiro Série A ,Am\xc3\xa9rica FC (Minas Gerais),Balanced,Long Ball,2,2
+664,111082,Polish T-Mobile Ekstraklasa ,Arka Gdynia,Balanced,Balanced,4,3
+665,110394,Argentina Primera División  ,Arsenal de Sarand\xc3\xad,Drop Back,Balanced,3,6
+666,1598,Campeonato Brasileiro Série A ,Bahia,Press After Possession Loss,Balanced,4,3
+667,1848,Italian Serie B ,Bari,Balanced,Balanced,9,2
+668,112510,Polish T-Mobile Ekstraklasa ,Bruk-Bet Termalica Nieciecza,,,4,1
+669,666,Portuguese Liga ZON SAGRES ,CD Aves,Balanced,Long Ball,2,1
+670,10019,Portuguese Liga ZON SAGRES ,CD Feirense,Balanced,Balanced,2,1
+671,112409,Italian Serie B ,Carpi,Drop Back,Fast Build Up,5,1
+672,111059,Campeonato Brasileiro Série A ,Cear\xc3\xa1 Sporting Club,Balanced,Long Ball,3,2
+673,1813,French Ligue 2 ,Chamois Niortais Football Club,Pressure On Heavy Touch,Possession,3,1
+674,111711,Argentina Primera División  ,Club Atl\xc3\xa9tico Hurac\xc3\xa1n,Drop Back,Fast Build Up,7,7
+675,1893,Portuguese Liga ZON SAGRES ,Clube Sport Mar\xc3\xadtimo,Balanced,Balanced,6,3
+676,422,Rep. Ireland Airtricity League ,Cork City,Balanced,Long Ball,10,2
+677,1867,Spanish Segunda División ,C\xc3\xb3rdoba CF,Balanced,Balanced,6,1
+678,111721,Colombian Liga Postobón ,C\xc3\xbacuta Deportivo,Drop Back,Fast Build Up,1,1
+679,2056,Korean K League Classic ,Daegu FC,Drop Back,Long Ball,3,2
+680,1572,Rep. Ireland Airtricity League ,Drogheda United,,,4,1
+681,162,German 3. Bundesliga ,FC Energie Cottbus,Pressure On Heavy Touch,Long Ball,4,1
+682,1715,Swiss Super League ,FC Thun,Drop Back,Balanced,6,3
+683,1463,Norwegian Eliteserien ,FK Haugesund,Press After Possession Loss,Long Ball,4,1
+684,111131,Rep. Ireland Airtricity League ,Finn Harps,Drop Back,Long Ball,2,1
+685,112115,Korean K League Classic ,Gangwon FC,Balanced,Balanced,2,1
+686,111706,Argentina Primera División  ,Godoy Cruz,Press After Possession Loss,Balanced,6,6
+687,111042,Campeonato Brasileiro Série A ,Goi\xc3\xa1s,Balanced,Balanced,4,3
+688,111779,Chinese Super League ,Henan Jianye FC,Drop Back,Long Ball,4,2
+689,698,USA Major League Soccer ,Houston Dynamo,Balanced,Long Ball,6,2
+690,1475,Korean K League Classic ,Jeonnam Dragons,Balanced,Balanced,5,2
+691,1439,Swedish Allsvenskan ,Kalmar FF,Pressure On Heavy Touch,Balanced,3,1
+692,111035,Mexican Liga MX ,Lobos BUAP,Press After Possession Loss,Balanced,1,1
+693,112420,Norwegian Eliteserien ,Mj\xc3\xb8ndalen IF,Balanced,Long Ball,1,1
+694,435,Swiss Super League ,Neuch\xc3\xa2tel Xamax,Drop Back,Fast Build Up,3,2
+695,15019,Spanish Segunda División ,Gimn\xc3\xa0stic de Tarragona,Balanced,Long Ball,5,1
+696,101106,Colombian Liga Postobón ,Once Caldas,Press After Possession Loss,Balanced,7,5
+697,383,Campeonato Brasileiro Série A ,Palmeiras,,,7,5
+698,1754,Scottish Premiership ,Partick Thistle FC,,,5,1
+699,1474,Korean K League Classic ,Pohang Steelers,Drop Back,Fast Build Up,7,5
+700,110815,Romanian Liga I ,Politehnica Ia\xc5\x9fi,Balanced,Balanced,5,2
+701,111065,USA Major League Soccer ,Real Salt Lake,Balanced,Balanced,6,4
+702,111273,French Ligue 2 ,Red Star FC,Drop Back,Long Ball,2,1
+703,919,Norwegian Eliteserien ,SK Brann,Drop Back,Balanced,7,1
+704,2055,Korean K League Classic ,Sangju Sangmu FC,Balanced,Long Ball,2,1
+705,112199,Norwegian Eliteserien ,Sarpsborg 08 FF,Balanced,Balanced,5,2
+706,563,Rep. Ireland Airtricity League ,Sligo Rovers,Balanced,Possession,5,1
+707,2007,Belgian Jupiler Pro League ,Sporting Lokeren,Pressure On Heavy Touch,Balanced,5,1
+708,598,Campeonato Brasileiro Série A ,S\xc3\xa3o Paulo,,,9,6
+709,110109,Russian Premier League ,Terek Grozny,,,6,3
+710,111774,Chinese Super League ,Tianjin TEDA FC,Press After Possession Loss,Long Ball,4,2
+711,112448,Japanese J. League Division 1 ,V-Varen Nagasaki,Drop Back,Fast Build Up,3,1
+712,110700,German 3. Bundesliga ,VfL Sportfreunde Lotte,Balanced,Long Ball,2,1
+713,550,German 3. Bundesliga ,VfR Aalen,Balanced,Long Ball,4,1
+714,300,Norwegian Eliteserien ,Viking FK,Press After Possession Loss,Long Ball,3,1
+715,346,English League Two ,Yeovil Town,Drop Back,Balanced,2,1
+716,110749,Polish T-Mobile Ekstraklasa ,Zag\xc5\x82\xc4\x99bie Lubin,Press After Possession Loss,Possession,5,2
+717,113057,Saudi Abdul L. Jameel League ,Al Fayha,Balanced,Long Ball,3,1
+718,113186,Japanese J. League Division 1 ,Avispa Fukuoka,,,2,1
+719,112934,Colombian Liga Postobón ,Cortulu\xc3\xa1,,,5,1
+720,110467,Czech Republic Gambrinus Liga ,1. FC Brno,,,11,4
+721,112390,Saudi Abdul L. Jameel League ,Al Fateh,Balanced,Balanced,6,4
+722,110234,Russian Premier League ,Amkar Perm,,,3,2
+723,110756,Russian Premier League ,Arsenal Tula,,,2,1
+724,112119,Campeonato Brasileiro Série A ,Atl\xc3\xa9tico Clube Goianiense,,,2,2
+725,112528,Colombian Liga Postobón ,Atl\xc3\xa9tico Huila,Balanced,Balanced,7,4
+726,111976,Campeonato Brasileiro Série A ,Ava\xc3\xad FC,Balanced,Long Ball,3,3
+727,111707,Argentina Primera División  ,Club Atl\xc3\xa9tico Aldosivi,Drop Back,Long Ball,1,1
+728,112934,Colombian Liga Postobón ,Cortulu\xc3\xa1,,,5,1
+729,112585,Chilian Campeonato Nacional ,Deportivo \xc3\x91ublense,,,7,3
+730,312,Russian Premier League ,Dinamo Moscow,,,6,5
+731,112526,Colombian Liga Postobón ,Envigado FC,Drop Back,Balanced,3,1
+732,10020,Portuguese Liga ZON SAGRES ,Estoril Praia,,,5,5
+733,112096,Saudi Abdul L. Jameel League ,Ettifaq FC,Balanced,Balanced,6,4
+734,110233,Russian Premier League ,FC Tom Tomsk,,,4,3
+735,2045,Austrian Football Bundesliga ,FC Wacker Innsbruck,Balanced,Long Ball,5,1
+736,918,Norwegian Eliteserien ,FK Bod\xc3\xb8/Glimt,Drop Back,Fast Build Up,3,1
+737,110911,Italian Serie B ,Foggia,Press After Possession Loss,Balanced,2,1
+738,111052,Campeonato Brasileiro Série A ,Fortaleza,Balanced,Balanced,2,1
+739,110316,French Ligue 2 ,GFC Ajaccio,Press After Possession Loss,Possession,4,1
+740,101024,Turkish Süper Lig ,Gaziantepspor,,,4,4
+741,111491,Italian Serie B ,Grosseto,,,5,7
+742,112258,Korean K League Classic ,GwangJu FC,,,2,1
+743,111705,Swedish Allsvenskan ,IF Brommapojkarna,Balanced,Possession,1,1
+744,700,Swedish Allsvenskan ,IF Elfsborg,Press After Possession Loss,Possession,8,1
+745,1524,Norwegian Eliteserien ,IK Start,Balanced,Long Ball,3,1
+746,110765,Korean K League Classic ,Incheon United FC,Drop Back,Long Ball,4,2
+747,112679,Mexican Liga MX ,Jaguares de Chiapas,,,2,1
+748,112903,Colombian Liga Postobón ,Jaguares de C\xc3\xb3rdoba,Drop Back,Balanced,4,3
+749,1478,Korean K League Classic ,Jeju United FC,Balanced,Possession,6,2
+750,101145,Japanese J. League Division 1 ,Kashiwa Reysol,Press After Possession Loss,Possession,7,6
+751,112523,Colombian Liga Postobón ,La Equidad,Press After Possession Loss,Balanced,5,2
+752,239,Belgian Jupiler Pro League ,Lierse SK,,,13,7
+753,621,Scottish Premiership ,Livingston FC,Balanced,Long Ball,1,1
+754,112505,Polish T-Mobile Ekstraklasa ,Mied\xc5\xba Legnica,Balanced,Balanced,1,1
+755,112925,Argentina Primera División  ,Nueva Chicago,,,6,2
+756,1456,Norwegian Eliteserien ,Odds BK,Press After Possession Loss,Balanced,7,2
+757,110912,Italian Serie B ,Padova,Pressure On Heavy Touch,Balanced,5,1
+758,112527,Colombian Liga Postobón ,Patriotas Boyac\xc3\xa1 FC,Pressure On Heavy Touch,Possession,5,4
+759,111802,Italian Serie B ,Ravenna,,,6,3
+760,1828,German 2. Bundesliga ,Rot-Wei\xc3\x9f Oberhausen,,,6,2
+761,780,Austrian Football Bundesliga ,SV Ried,,,7,3
+762,110694,German 3. Bundesliga ,SV Werder Bremen II,,,1,1
+763,110149,Mexican Liga MX ,San Luis,,,6,7
+764,112668,Chilian Campeonato Nacional ,San Luis de Quillota,Pressure On Heavy Touch,Balanced,3,1
+765,111713,Argentina Primera División  ,San Mart\xc3\xadn de San Juan,Drop Back,Balanced,2,1
+766,111114,International,Saudi Arabia,,,,4
+767,324,Swiss Super League ,Servette FC,Balanced,Balanced,4,3
+768,110714,Spanish Segunda División ,Sevilla Atl\xc3\xa9tico,,,1,1
+769,917,Norwegian Eliteserien ,Stab\xc3\xa6k Fotball,Press After Possession Loss,Balanced,4,1
+770,922,Norwegian Eliteserien ,Str\xc3\xb8msgodset IF,Press After Possession Loss,Balanced,8,1
+771,570,Italian Serie B ,Ternana,,,4,1
+772,110526,German 2. Bundesliga ,TuS Koblenz,,,5,2
+773,112552,French Ligue 2 ,US Quevilly Rouen M\xc3\xa9tropole,,,1,1
+774,1366,International,Ukraine,,,,14
+775,112715,Colombian Liga Postobón ,Uni\xc3\xb3n Magdalena,Drop Back,Fast Build Up,3,1
+776,203,Italian Serie B ,Urbs Reggina 1914 ,,,8,10
+777,1719,Campeonato Brasileiro Série A ,Vit\xc3\xb3ria,Press After Possession Loss,Long Ball,4,2
+778,665,Portuguese Liga ZON SAGRES ,Vit\xc3\xb3ria de Set\xc3\xbabal,Balanced,Long Ball,3,1
+779,111968,Rep. Ireland Airtricity League ,Wexford Youths,,,1,1
+780,180,Scottish Premiership ,Dundee FC,Balanced,Long Ball,3,1
+781,147,English League Two ,Hereford,,,3,1
+782,203,Italian Serie B ,Urbs Reggina 1914 ,,,8,10
+783,112708,Chilian Campeonato Nacional ,AC Barnechea,,,4,2
+784,113058,Saudi Abdul L. Jameel League ,Abha Club,Drop Back,Balanced,1,1
+785,112990,Saudi Abdul L. Jameel League ,Al Batin,Balanced,Balanced,1,1
+786,112389,Saudi Abdul L. Jameel League ,Al Faisaly,Drop Back,Fast Build Up,5,2
+787,113222,Saudi Abdul L. Jameel League ,Al Hazem,Balanced,Long Ball,1,1
+788,112883,Saudi Abdul L. Jameel League ,Al Khaleej,,,4,2
+789,112676,Saudi Abdul L. Jameel League ,Al Nahdha Dammam,,,4,1
+790,112675,Saudi Abdul L. Jameel League ,Al Orobah,,,8,1
+791,112391,Saudi Abdul L. Jameel League ,Al Qadisiyah,Drop Back,Long Ball,2,1
+792,112392,Saudi Abdul L. Jameel League ,Al Raed,Pressure On Heavy Touch,Long Ball,4,1
+793,112407,Saudi Abdul L. Jameel League ,Al Shoulla,,,8,1
+794,112393,Saudi Abdul L. Jameel League ,Al Taawoun,Balanced,Possession,5,4
+795,112906,Japanese J. League Division 1 ,Albirex Niigata,,,4,1
+796,112579,Colombian Liga Postobón ,Alianza Petrolera,Drop Back,Balanced,7,2
+797,112992,Colombian Liga Postobón ,Atl\xc3\xa9tico Bucaramanga,Pressure On Heavy Touch,Balanced,2,1
+798,112889,Turkish Süper Lig ,Bal\xc4\xb1kesirspor,,,6,5
+799,112549,French Ligue 2 ,CA Bastia,,,4,1
+800,112476,Campeonato Brasileiro Série A ,Chapecoense,Balanced,Long Ball,3,1
+801,112713,Argentina Primera División  ,Club Atl\xc3\xa9tico Sarmiento,,,1,1
+802,112904,Argentina Primera División  ,Club Atl\xc3\xa9tico Temperley,,,1,1
+803,112709,Chilian Campeonato Nacional ,Club Deportes Temuco,Balanced,Possession,1,1
+804,112909,Argentina Primera División  ,Crucero del Norte,,,4,1
+805,113876,Swedish Allsvenskan ,Dalkurd FF,Balanced,Long Ball,1,1
+806,113217,Saudi Abdul L. Jameel League ,Damac FC,Balanced,Balanced,1,1
+807,112525,Colombian Liga Postobón ,Deportes Quind\xc3\xado,,,3,1
+808,112586,Chilian Campeonato Nacional ,Deportivo San Marcos de Arica,,,6,2
+809,112513,Portuguese Liga ZON SAGRES ,FC Arouca,,,4,1
+810,113720,Danish Superliga ,FC Helsing\xc3\xb8r,,,1,1
+811,112261,Russian Premier League ,FC Orenburg,,,1,1
+812,112398,Italian Serie B ,FC Pro Vercelli 1892,,,4,1
+813,113704,Russian Premier League ,FC Tosno,,,1,1
+814,112424,Danish Superliga ,FC Vestsj\xc3\xa6lland,,,7,3
+815,112834,Colombian Liga Postobón ,Fortaleza CEIF,,,1,1
+816,112281,Italian Serie B ,Gubbio,,,1,7
+817,112394,Saudi Abdul L. Jameel League ,Hajer,,,7,1
+818,112970,Colombian Liga Postobón ,Itag\xc3\xbc\xc3\xad Leones FC,Balanced,Balanced,1,1
+819,113459,Norwegian Eliteserien ,Kristiansund BK,Pressure On Heavy Touch,Balanced,3,1
+820,112487,Italian Serie B ,Latina,,,4,1
+821,112395,Saudi Abdul L. Jameel League ,Najran SC,,,11,2
+822,112282,Italian Serie B ,Nocera Inferiore,,,1,7
+823,113219,Saudi Abdul L. Jameel League ,Ohod Club,Balanced,Long Ball,1,1
+824,112345,Japanese J. League Division 1 ,Omiya Ardija,,,2,1
+825,112958,Turkish Süper Lig ,Osmanl\xc4\xb1spor,,,5,1
+826,112578,Colombian Liga Postobón ,Rionegro \xc3\x81guilas,Drop Back,Balanced,5,3
+827,112508,Polish T-Mobile Ekstraklasa ,Sandecja Nowy S\xc4\x85cz,,,1,1
+828,112374,Norwegian Eliteserien ,Sandnes Ulf,,,6,2
+829,113378,Romanian Liga I ,Sepsi OSK,Balanced,Balanced,5,2
+830,112558,Korean K League Classic ,Suwon FC,,,1,1
+831,112267,Swedish Allsvenskan ,Syrianska,,,7,5
+832,112968,Colombian Liga Postobón ,Tigres FC,,,1,1
+833,113216,Spanish Segunda División ,UCAM Murcia CF,,,1,1
+834,112902,Spanish Segunda División ,UE Llagostera,,,3,2
+835,112830,Colombian Liga Postobón ,Uniaut\xc3\xb3noma FC,,,3,1
+836,112517,Portuguese Liga ZON SAGRES ,Uni\xc3\xa3o da Madeira,,,5,3
+837,112237,Italian Serie B ,Varese,,,5,9
+838,113162,Japanese J. League Division 1 ,Ventforet Kofu,,,2,1
+839,112954,Italian Serie B ,Vicenza,,,5,1
+840,111989,French Ligue 2 ,AC Arles Avignon,,,6,7
+841,111340,Turkish Süper Lig ,Akhisar Belediyespor,Balanced,Balanced,5,2
+842,111717,Argentina Primera División  ,All Boys,,,5,1
+843,111704,Campeonato Brasileiro Série A ,Am\xc3\xa9rica de Natal,,,8,1
+844,111965,Rep. Ireland Airtricity League ,Athlone Town,,,9,1
+845,111812,Czech Republic Gambrinus Liga ,Bohemians 1905,,,11,3
+846,111985,Czech Republic Gambrinus Liga ,Bohemians Praha,,,3,2
+847,112019,Colombian Liga Postobón ,Boyac\xc3\xa1 Chic\xc3\xb3 FC,Drop Back,Fast Build Up,1,1
+848,112232,Turkish Süper Lig ,Bucaspor,,,5,2
+849,111827,Spanish Segunda División ,CD Guadalajara,,,3,7
+850,111984,Portuguese Liga ZON SAGRES ,CD Trofense,,,2,1
+851,111666,Mexican Liga MX ,CF Indios,,,5,3
+852,111769,Chinese Super League ,Changchun Yatai FC,Drop Back,Fast Build Up,3,2
+853,111715,Argentina Primera División  ,Club Atl\xc3\xa9tico Tigre,Balanced,Long Ball,4,3
+854,111810,Spanish Segunda División ,Club Polideportivo Granada 74,,,5,1
+855,111932,Rep. Ireland Airtricity League ,Cobh Ramblers,,,4,1
+856,111988,Turkish Süper Lig ,Eski\xc5\x9fehirspor,,,14,9
+857,111271,French Ligue 2 ,\xc3\x89vian Thonon Gaillard FC,,,10,10
+858,112236,Czech Republic Gambrinus Liga ,FC Hradec Kr\xc3\xa1lov\xc3\xa9,,,5,2
+859,111264,Russian Premier League ,FC Ural Yekaterinburg,,,5,2
+860,111374,Czech Republic Gambrinus Liga ,FK SIAD Most,,,6,2
+861,112235,Czech Republic Gambrinus Liga ,FK \xc3\x9ast\xc3\xad nad Labem,,,4,1
+862,112169,Swedish Allsvenskan ,Falkenbergs FF,Balanced,Long Ball,1,1
+863,111594,Swedish Allsvenskan ,GAIS,,,15,5
+864,112107,Italian Serie B ,Gallipoli,,,2,1
+865,111277,Swedish Allsvenskan ,Gefle IF,,,3,1
+866,112078,Australian Hyundai A-League ,Gold Coast United,,,10,2
+867,111206,Scottish Premiership ,Gretna,,,5,2
+868,112077,Campeonato Brasileiro Série A ,Gr\xc3\xaamio Barueri,,,3,1
+869,111929,Campeonato Brasileiro Série A ,Ipatinga,,,6,1
+870,112130,Swedish Allsvenskan ,J\xc3\xb6nk\xc3\xb6pings S\xc3\xb6dra IF,,,1,1
+871,112122,Turkish Süper Lig ,Kardemir Karab\xc3\xbckspor,,,2,1
+872,111654,Mexican Liga MX ,Leones Negros de la UdeG,,,8,3
+873,111285,Rep. Ireland Airtricity League ,Limerick FC,Pressure On Heavy Touch,Long Ball,2,1
+874,111959,Swedish Allsvenskan ,Ljungskile SK,,,8,1
+875,111433,Italian Serie B ,Mantova,,,6,4
+876,112072,Swedish Allsvenskan ,Mj\xc3\xa4llby AIF,,,8,5
+877,112079,Australian Hyundai A-League ,North Queensland Fury FC,,,10,2
+878,112225,Italian Serie B ,Novara,,,7,2
+879,111429,Polish T-Mobile Ekstraklasa ,Polonia Bytom,,,5,1
+880,112231,Italian Serie B ,Portogruaro Calcio ASD,,,2,1
+881,111292,Campeonato Brasileiro Série A ,Portuguesa de Desportos,,,9,3
+882,112110,Chilian Campeonato Nacional ,Rangers de Talca,,,11,1
+883,112200,Norwegian Eliteserien ,Ranheim Fotball,Balanced,Balanced,2,1
+884,111432,Italian Serie B ,Rimini,,,6,2
+885,111540,Portuguese Liga ZON SAGRES ,SC Olhanense,,,6,8
+886,111373,Austrian Football Bundesliga ,SC Wiener Neustadt,,,9,5
+887,111720,Czech Republic Gambrinus Liga ,SK Kladno,,,4,2
+888,112020,Italian Serie B ,SS Virtus Lanciano,,,5,3
+889,112022,Austrian Football Bundesliga ,SV Gr\xc3\xb6dig,,,6,3
+890,111714,Argentina Primera División  ,San Martin de Tucum\xc3\xa1n,Drop Back,Balanced,1,1
+891,111293,Campeonato Brasileiro Série A ,Santo Andr\xc3\xa9,,,4,1
+892,111266,Russian Premier League ,Sibir Novosibirsk,,,9,5
+893,111967,Rep. Ireland Airtricity League ,Sporting Fingal,,,8,1
+894,111376,French Ligue 2 ,US Boulogne Cote D\'Opale,,,6,7
+895,111377,French Ligue 2 ,Vannes OC,,,3,1
+896,112237,Italian Serie B ,Varese,,,5,9
+897,111660,Danish Superliga ,Vendsyssel FF,Press After Possession Loss,Long Ball,1,1
+898,112217,Russian Premier League ,Volga Nizhny Novgorod,,,10,12
+899,111089,Polish T-Mobile Ekstraklasa ,Zag\xc5\x82\xc4\x99bie Sosnowiec,Drop Back,Balanced,2,1
+900,110306,Belgian Jupiler Pro League ,AFC Tubize,,,6,1
+901,110230,Russian Premier League ,Alaniya Vladikavkaz,,,9,7
+902,110907,Italian Serie B ,Arezzo,,,5,5
+903,101116,Mexican Liga MX ,Atlante,,,12,7
+904,110392,Argentina Primera División  ,Atl\xc3\xa9tico de Rafaela,,,2,1
+905,110464,Czech Republic Gambrinus Liga ,Ban\xc3\xadk Ostrava,,,18,7
+906,111022,Argentina Primera División  ,Belgrano de C\xc3\xb3rdoba,Drop Back,Long Ball,5,4
+907,110701,Spanish Segunda División ,Bilbao Athletic,,,2,2
+908,110833,Spanish Segunda División ,CD Alcoyano,,,5,7
+909,110979,Chilian Campeonato Nacional ,CD Cobreloa,,,14,3
+910,110364,Italian Serie B ,Catania,,,12,13
+911,110915,Italian Serie B ,Cesena,Constant Pressure,Long Ball,4,2
+912,110405,Argentina Primera División  ,Chacarita Juniors,,,2,3
+913,111070,USA Major League Soccer ,Chivas USA,,,12,5
+914,110398,Argentina Primera División  ,Club Olimpo,,,3,1
+915,111050,Campeonato Brasileiro Série A ,Clube N\xc3\xa1utico Capibaribe,,,7,4
+916,111044,Campeonato Brasileiro Série A ,Coritiba,,,6,3
+917,111046,Campeonato Brasileiro Série B ,Crici\xc3\xbama,,,2,1
+918,111032,Mexican Liga MX ,Dorados de Sinaloa,,,3,2
+919,110471,Czech Republic Gambrinus Liga ,Dynamo \xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice,,,6,2
+920,110780,Mexican Liga MX ,Estudiantes Tecos,,,9,7
+921,110239,Russian Premier League ,FC Khimki,,,10,4
+922,110318,French Ligue 2 ,FC Libourne-Saint-Seurin,,,1,3
+923,110229,Russian Premier League ,FC Moskva,,,14,8
+924,110822,Russian Premier League ,FC Ufa,,,5,1
+925,110596,German 2. Bundesliga ,FSV Frankfurt,,,6,5
+926,111045,Campeonato Brasileiro Série A ,Figueirense,,,4,2
+927,110576,French Ligue 2 ,Football Bourg En Bresse Peronnas 01,,,1,1
+928,110744,Polish T-Mobile Ekstraklasa ,GKS Be\xc5\x82chat\xc3\xb3w,,,6,3
+929,111049,Campeonato Brasileiro Série A ,Guarani,,,9,2
+930,110565,Polish T-Mobile Ekstraklasa ,G\xc3\xb3rnik \xc5\x81\xc4\x99czna,,,3,1
+931,110775,Turkish Süper Lig ,Hacettepe SK,,,10,2
+932,110151,Mexican Liga MX ,Jaguares de Chiapas,,,7,8
+933,111054,Campeonato Brasileiro Série B ,Joinville,,,2,1
+934,111041,Campeonato Brasileiro Série B ,Juventude,,,11,3
+935,101032,Turkish Süper Lig ,Kocaelispor,,,10,4
+936,110089,Russian Premier League ,Kuban Krasnodar,,,13,11
+937,110935,South African Premier Division ,Mamelodi Sundowns FC,,,15,1
+938,101035,Turkish Süper Lig ,Manisaspor,,,9,3
+939,101036,Turkish Süper Lig ,Mersin \xc4\xb0dman Yurdu,,,9,8
+940,110472,Czech Republic Gambrinus Liga ,Mlad\xc3\xa1 Boleslav,,,13,5
+941,110106,Russian Premier League ,Mordovia Saransk,,,5,4
+942,111048,Campeonato Brasileiro Série A ,Paran\xc3\xa1,Balanced,Balanced,4,1
+943,110581,Argentina Primera División  ,Patronato,Press After Possession Loss,Long Ball,3,1
+944,111087,Polish T-Mobile Ekstraklasa ,Podbeskidzie Bielsko-Bia\xc5\x82a,,,7,3
+945,111043,Campeonato Brasileiro Série A ,Ponte Preta,,,3,2
+946,110554,Argentina Primera División  ,Quilmes Atl\xc3\xa9tico Club,,,2,2
+947,110242,Spanish Segunda División ,Racing de Ferrol,,,5,3
+948,110710,Spanish Segunda División ,Real Madrid Castilla,,,7,4
+949,110101,Russian Premier League ,SKA Khabarovsk,,,1,1
+950,111058,Campeonato Brasileiro Série A ,Santa Cruz,,,1,1
+951,110976,Chilian Campeonato Nacional ,Santiago Wanderers,,,5,2
+952,110225,Russian Premier League ,Saturn Ramenskoye,,,8,3
+953,110082,International,Serbia,,,,13
+954,110103,Russian Premier League ,Spartak Nalchik,,,10,13
+955,111057,Campeonato Brasileiro Série A ,Sport Club do Recife,Balanced,Possession,2,3
+956,110466,Czech Republic Gambrinus Liga ,Tescoma Zl\xc3\xadn,,,6,2
+957,110326,French Ligue 2 ,Tours FC,,,3,1
+958,110465,Czech Republic Gambrinus Liga ,Viktoria \xc5\xbdi\xc5\xbekov,,,7,5
+959,110902,Spanish Segunda División ,Villarreal CF B,,,5,10
+960,100149,Czech Republic Gambrinus Liga ,1. FC Slov\xc3\xa1cko,,,8,2
+961,100145,Czech Republic Gambrinus Liga ,1. FK P\xc5\x99\xc3\xadbram,,,6,2
+962,1826,German 2. Bundesliga ,Alemannia Aachen,,,9,9
+963,1872,Spanish Segunda División ,Alicante CF,,,4,3
+964,1840,Italian Serie B ,Ancona,,,5,3
+965,101008,Turkish Süper Lig ,Ankaraspor,,,12,4
+966,1901,Portuguese Liga ZON SAGRES ,Associa\xc3\xa7\xc3\xa3o Acad\xc3\xa9mica de Coimbra,,,14,7
+967,2038,Italian Serie B ,Avellino,Balanced,Long Ball,2,1
+968,1964,English League Two ,Boston United,,,5,2
+969,100852,Spanish Segunda División ,C.D. Castell\xc3\xb3n,,,9,6
+970,1857,Spanish Segunda División ,C.P. Ejido,,,6,5
+971,15021,Spanish Segunda División ,CE Sabadell FC,,,6,6
+972,2057,Spanish Segunda División ,CF Ciudad de Murcia,,,6,5
+973,1924,English League Two ,Chesterfield,,,7,1
+974,15012,Spanish Segunda División ,Cultural Leonesa,,,1,1
+975,1957,English League Two ,Darlington,,,3,2
+976,101018,Turkish Süper Lig ,Diyarbak\xc4\xb1rspor,,,10,1
+977,1971,Holland Eredivisie ,Excelsior,Drop Back,Fast Build Up,2,1
+978,100851,Spanish Segunda División ,FC Cartagena,,,7,7
+979,100626,Holland Eredivisie ,FC Dordrecht,,,3,3
+980,10023,Swiss Challenge League ,FC La Chaux-de-Fonds,,,6,1
+981,1862,Swiss Super League ,FC Lausanne-Sport,,,3,1
+982,8001,Belgian Jupiler Pro League ,FC Molenbeek Brussels,,,12,6
+983,100741,Portuguese Liga ZON SAGRES ,FC Penafiel,,,6,1
+984,100424,German 3. Bundesliga ,FC Rot-Wei\xc3\x9f Erfurt,,,3,1
+985,100994,Swiss Super League ,FC Schaffhausen,,,12,4
+986,100142,Czech Republic Gambrinus Liga ,FK Baumit Jablonec,,,12,6
+987,2041,Norwegian Eliteserien ,Fredrikstad FK,,,12,6
+988,100632,Holland Eredivisie ,Go Ahead Eagles,,,3,1
+989,1941,English League Two ,Hartlepool United,,,4,1
+990,100879,Spanish Segunda División ,H\xc3\xa9rcules CF,,,10,10
+991,1841,Norwegian Eliteserien ,H\xc3\xb8nefoss BK,,,5,2
+992,15011,Austrian Football Bundesliga ,KSV 1919,,,10,6
+993,1950,German 2. Bundesliga ,Kickers Offenbach,,,6,4
+994,101032,Turkish Süper Lig ,Kocaelispor,,,10,4
+995,100764,Russian Premier League ,Krylya Sovetov Samara,,,5,2
+996,10018,Portuguese Liga ZON SAGRES ,Leix\xc3\xb5es SC,,,5,2
+997,2015,Austrian Football Bundesliga ,Liebherr GAK,,,18,8
+998,2026,Spanish Segunda División ,Lorca FC,,,1,1
+999,1845,Italian Serie B ,Messina,,,10,7
+1000,1910,Holland Eredivisie ,NEC Nijmegen,,,5,1
+1001,100737,Portuguese Liga ZON SAGRES ,Naval 1\xc2\xb0 de Maio,,,7,2
+1002,100087,Belgian Jupiler Pro League ,Oud-Heverlee Leuven,,,8,6
+1003,1855,Spanish Segunda División ,Real Murcia Club de F\xc3\xbatbol,,,10,9
+1004,100882,Spanish Segunda División ,Real Uni\xc3\xb3n Club Ir\xc3\xban,,,10,4
+1005,1902,Holland Eredivisie ,Roda JC Kerkrade,,,4,1
+1006,1834,German 2. Bundesliga ,Rot-Wei\xc3\x9f Ahlen,,,4,2
+1007,1897,Portuguese Liga ZON SAGRES ,SC Beira Mar,,,7,8
+1008,1838,Italian Serie B ,Siena,,,9,13
+1009,100143,Czech Republic Gambrinus Liga ,Slovan Liberec,,,16,8
+1010,1931,English League Two ,Stockport County,,,4,2
+1011,100768,Russian Premier League ,Torpedo Moscow,,,12,7
+1012,1946,English League Two ,Torquay United,,,3,1
+1013,2021,Italian Serie B ,Treviso,,,6,4
+1014,1839,Italian Serie B ,Triestina,,,6,4
+1015,2044,Italian Serie B ,UC AlbinoLeffe,,,5,9
+1016,1856,Spanish Segunda División ,UD Salamanca,,,8,4
+1017,100947,Spanish Segunda División ,UD Vecindario,,,4,3
+1018,1895,Portuguese Liga ZON SAGRES ,Uni\xc3\xa3o de Leiria,,,9,10
+1019,1947,English League Two ,Wrexham,,,2,2
+1020,241,Spain Primera Division ,FC Barcelona,Pressure On Heavy Touch,Possession,10,10
+1021,11,English Premier League ,Manchester United,Press After Possession Loss,Balanced,10,10
+1022,5,English Premier League ,Chelsea,Press After Possession Loss,Possession,9,9
+1023,243,Spain Primera Division ,Real Madrid,Pressure On Heavy Touch,Possession,10,10
+1024,1,English Premier League ,Arsenal,Press After Possession Loss,Possession,8,8
+1025,9,English Premier League ,Liverpool,Press After Possession Loss,Balanced,9,8
+1026,22,German 1. Bundesliga ,Borussia Dortmund,Press After Possession Loss,Possession,8,7
+1027,21,German 1. Bundesliga ,FC Bayern M\xc3\xbcnchen,Press After Possession Loss,Possession,10,9
+1028,10,English Premier League ,Manchester City,Press After Possession Loss,Possession,10,9
+1029,73,French Ligue 1 ,Paris Saint-Germain,Press After Possession Loss,Possession,10,10
+1030,245,Holland Eredivisie ,Ajax,Press After Possession Loss,Possession,10,5
+1031,240,Spain Primera Division ,Atl\xc3\xa9tico Madrid,Press After Possession Loss,Balanced,9,9
+1032,191,Austrian Football Bundesliga ,FC Red Bull Salzburg,Press After Possession Loss,Possession,10,6
+1033,44,Italian Serie A ,Inter,Pressure On Heavy Touch,Balanced,9,7
+1034,47,Italian Serie A ,Milan,Pressure On Heavy Touch,Balanced,7,7
+1035,45,Italian Serie A ,Juventus,Press After Possession Loss,Possession,10,10
+1036,18,English Premier League ,Tottenham Hotspur,Press After Possession Loss,Possession,9,8
+1037,112172,German 1. Bundesliga ,RB Leipzig,Press After Possession Loss,Long Ball,8,6
+1038,1943,English Premier League ,Bournemouth,Balanced,Possession,3,3
+1039,48,Italian Serie A ,Napoli,Pressure On Heavy Touch,Balanced,9,7
+1040,7,English Premier League ,Everton,Balanced,Possession,7,6
+1041,32,German 1. Bundesliga ,Bayer 04 Leverkusen,Press After Possession Loss,Possession,7,6
+1042,52,Italian Serie A ,Roma,Pressure On Heavy Touch,Balanced,9,8
+1043,34,German 1. Bundesliga ,FC Schalke 04,Pressure On Heavy Touch,Long Ball,8,6
+1044,95,English Premier League ,Leicester City,Balanced,Possession,5,5
+1045,461,Spain Primera Division ,Valencia CF,Pressure On Heavy Touch,Long Ball,8,6
+1046,110,English Premier League ,Wolverhampton Wanderers,Pressure On Heavy Touch,Balanced,3,1
+1047,66,French Ligue 1 ,Olympique Lyonnais,Press After Possession Loss,Balanced,8,6
+1048,19,English Premier League ,West Ham United,Balanced,Balanced,6,5
+1049,110374,Italian Serie A ,Fiorentina,Press After Possession Loss,Balanced,7,6
+1050,247,Holland Eredivisie ,PSV,Press After Possession Loss,Possession,10,5
+1051,1792,English Premier League ,Norwich City,Balanced,Possession,6,1
+1052,449,Spain Primera Division ,Real Betis,Press After Possession Loss,Possession,5,2
+1053,1824,German 1. Bundesliga ,Eintracht Frankfurt,Press After Possession Loss,Possession,5,4
+1054,38,German 1. Bundesliga ,SV Werder Bremen,Balanced,Possession,5,4
+1055,234,Portuguese Liga ZON SAGRES ,SL Benfica,Press After Possession Loss,Balanced,10,7
+1056,481,Spain Primera Division ,Sevilla FC,Press After Possession Loss,Balanced,7,7
+1057,69,French Ligue 1 ,AS Monaco,Pressure On Heavy Touch,Balanced,9,6
+1058,219,French Ligue 1 ,Olympique de Marseille,Balanced,Balanced,7,5
+1059,2,English Premier League ,Aston Villa,Balanced,Balanced,8,2
+1060,13,English Premier League ,Newcastle United,Balanced,Balanced,5,3
+1061,110679,German 3. Bundesliga ,Bayern M\xc3\xbcnchen II,Balanced,Balanced,4,1
+1062,236,Portuguese Liga ZON SAGRES ,FC Porto,Press After Possession Loss,Possession,10,8
+1063,74,French Ligue 1 ,Stade Rennais FC,Balanced,Balanced,5,3
+1064,237,Portuguese Liga ZON SAGRES ,Sporting CP,Press After Possession Loss,Possession,9,4
+1065,65,French Ligue 1 ,LOSC Lille,Press After Possession Loss,Possession,6,4
+1066,17,English Premier League ,Southampton,Pressure On Heavy Touch,Long Ball,5,4
+1067,39,Italian Serie A ,Atalanta,Press After Possession Loss,Possession,6,3
+1068,23,German 1. Bundesliga ,Borussia M\xc3\xb6nchengladbach,Pressure On Heavy Touch,Possession,6,5
+1069,50,Italian Serie A ,Parma,Drop Back,Long Ball,4,2
+1070,457,Spain Primera Division ,Real Sociedad,Balanced,Balanced,5,3
+1071,325,Turkish Süper Lig ,Galatasaray SK,Pressure On Heavy Touch,Possession,10,7
+1072,28,German 2. Bundesliga ,Hamburger SV,Press After Possession Loss,Possession,10,3
+1073,10029,German 1. Bundesliga ,TSG 1899 Hoffenheim,Press After Possession Loss,Balanced,6,5
+1074,175,German 1. Bundesliga ,VfL Wolfsburg,Balanced,Balanced,5,4
+1075,326,Turkish Süper Lig ,Fenerbah\xc3\xa7e SK,Balanced,Possession,10,7
+1076,190,Italian Serie A ,Brescia,Balanced,Balanced,7,2
+1077,448,Spain Primera Division ,Athletic Club de Bilbao,Balanced,Long Ball,6,6
+1078,8,English League Championship ,Leeds United,Press After Possession Loss,Possession,7,1
+1079,1799,English Premier League ,Crystal Palace,Pressure On Heavy Touch,Balanced,4,4
