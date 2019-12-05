@@ -1,1 +1,0 @@
-sed 's/,//g' < countries | awk -F "\t" '{print "(\"" $1"\"" "," $4"),"}' | sed 's/ "/"/g' | sed 's/ and / \& /' | sed 's/[.]//g'
